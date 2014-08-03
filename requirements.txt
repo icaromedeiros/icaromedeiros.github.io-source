@@ -7,5 +7,3 @@ Fabric==1.8.3
 # plugins requirements
 beautifulsoup4==4.3.2
 PIL==1.1.7
-
---allow-external PIL
