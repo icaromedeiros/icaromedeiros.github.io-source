@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/Paris'
 THEME = 'pelican-bootstrap3'
 
 # Where to look for plugins
-PLUGIN_PATH = '../pelican-plugins'
+PLUGIN_PATH = 'pelican-plugins'
 
 # Which plugins to enable
 PLUGINS = ['better_figures_and_images']
