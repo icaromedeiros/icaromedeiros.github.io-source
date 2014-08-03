@@ -54,3 +54,6 @@ docs/_build/
 
 # PyCharmice
 .idea/
+
+# Token
+github_token
