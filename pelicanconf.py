@@ -10,7 +10,7 @@ SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
 
-THEME = '../pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
 
 # Where to look for plugins
 PLUGIN_PATH = '../pelican-plugins'
