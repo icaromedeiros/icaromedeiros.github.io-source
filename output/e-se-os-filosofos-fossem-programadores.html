@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+    <title>E se os filósofos fossem programadores? - Ícaro Medeiros</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Ícaro Medeiros" />
+            <meta property="og:type" content="article"/>
+            <meta property="og:title" content="E se os filósofos fossem programadores?"/>
+            <meta property="og:url" content="/e-se-os-filosofos-fossem-programadores.html"/>
+            <meta property="og:description" content="Traduzido e adaptado de If philosophers were programmers em 2009, revisado em 2014, quando do lançamento da versão nova do blog. Num certo aspecto, o código reflete como o programador percebe o problema e sua solução, talvez simulando interações presentes no mundo real. Antes de programar, os desenvolvedores gastam algum ..."/>
+            <meta property="article:published_time" content="2009-04-21" />
+                <meta property="article:section" content="misc" />
+                <meta property="article:tag" content="computer science" />
+                <meta property="article:tag" content="philosophy" />
+                <meta property="article:tag" content="programming languages" />
+                <meta property="article:tag" content="programming" />
+                <meta property="article:author" content="Icaro Medeiros" />
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+Ícaro Medeiros            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="/pages/about.html">
+                             Sobre mim (About)
+                          </a></li>
+                        <li class="active">
+                            <a href="/category/misc.html">Misc</a>
+                        </li>
+                        <li >
+                            <a href="/category/semantic-web.html">Semantic web</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/e-se-os-filosofos-fossem-programadores.html"
+                       rel="bookmark"
+                       title="Permalink to E se os filósofos fossem programadores?">
+                        E se os filósofos fossem programadores?
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2009-04-21T17:46:00"> 2009-04-21 17:46:00</time>
+    </span>
+
+
+
+    <p> <span class="label label-default">Tags</span>
+	<a href="/tag/computer-science.html">computer science</a>
+        /
+	<a href="/tag/philosophy.html">philosophy</a>
+        /
+	<a href="/tag/programming-languages.html">programming languages</a>
+        /
+	<a href="/tag/programming.html">programming</a>
+ </p>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <html><body><p>Traduzido e adaptado de <a class="reference external" href="http://developeronline.blogspot.com/2009/04/if-philosophers-were-programmers.html">If philosophers were programmers</a> em 2009, revisado em 2014, quando do lançamento da versão nova do blog.</p>
+<p>Num certo aspecto, o código reflete como o programador percebe o problema e sua solução, talvez simulando interações presentes no mundo real.
+Antes de programar, os desenvolvedores gastam algum tempo pensando no problema, identificando propriedades importantes e suas conexões subjacentes.
+Analogamente, filósofos estão constantemente tentando identificar as mais importantes propriedades de questões como <a class="reference external" href="http://pt.wikipedia.org/wiki/Life,_the_Universe_and_Everything">A Vida, O Universo e Tudo o Mais</a>.</p>
+<p>Assim podemos fazer um mapeamento entre as idéias de linguagens de
+programação e as idéias que os filósofos tiveram ao longo dos séculos.
+É perfeitamente razoável considerar linguagens de programação como
+diferentes filosofias em um mundo virtual, onde entidades existem e
+interajem entre si.
+Até as perguntas fundamentais podem sofrer uma profunda transformação, por exemplo,
+"O que é auto-consciência?" pode ser refraseada como "O que é <a class="reference external" href="http://en.wikipedia.org/wiki/Reflection_(computer_science)">reflexão</a>?".</p>
+<p>Então e se os filosófos fossem programadores? Que linguagens eles usariam?</p>
+<p><strong>Sócrates: O programador Assembly</strong></p>
+<p>Sócrates foi um dos fundadores da filosofia mas não é aí que as
+semelhanças acabam. Ele inventou um método para ganhar qualquer debate,
+a dialética: Ele ficava fazendo perguntas até que seu adversário caísse
+em contradição. Se alguém dizia que "moralidade é importante", ele
+perguntava: "Como você define moralidade?".</p>
+<div class="figure" style="width: 440px; height: auto; max-width: 100%;">
+<img alt="Sócrates" class="align-center" src="images/socrates.jpg" style="width: 440px; height: auto; max-width: 100%;"/>
+<p class="caption">Sócrates</p>
+</div>
+<p>De modo similar, tudo em Assembly requer uma questão, não há nada
+pré-assumido e tudo tem de ser sucinto para ter sentido. Se você é um
+programador trabalhando com Sócrates e o envia algo como "var x = null",
+seu parceiro vai começar perguntando "O que é var?".</p>
+<p><strong>Aristóteles: O programador C influente</strong></p>
+<p>Aristóteles teve um grande impacto na filosofia Ocidental, fundando
+muitas áreas científicas, como Física, Biologia e até a nossa Lógica.
+Ele examinou as entidades e a essência real de tudo, em constraste as
+abstrações de Platão. Sua filosofia é orientada a uma "média dourada"
+como a chave para contra-balançar tudo e alcançar moralidade ou entender
+a vida.</p>
+<div class="figure" style="width: 300px; height: auto; max-width: 100%;">
+<img alt="Hello Word!" class="align-center" src="images/c_baby.jpg" style="width: 300px; height: auto; max-width: 100%;"/>
+<p class="caption">Hello Word!</p>
+</div>
+<p>A linguagem de programação C foi muito influente no projeto das
+filosofias das linguagens, principalmente no nível sintático. Além
+disso, quando surgiu, foi considerada uma "média dourada" entre as
+linguagens de alto nível e a linguagem Assembly, combinando a
+capacidade de escrever código independente de plataforma combinado com
+o poder de acesso de baixo nível.</p>
+<p><strong>Platão: O evangelizador do C++</strong></p>
+<p>Platão é uma grande figura da Filosofia, estudante de Sócrates e
+professor de Aristóteles. Então por que C++ vem depois de C? Platão é
+famoso pelas referências a versões arquetípicas das coisas a nossa
+volta. Então, uma xícara na sua mesa é uma sombra de um arquétipo
+similar no mundo das idéias. Em programação, diremos que é uma instância
+da classe Xícara.</p>
+<p>Similarmente, C++, é uma extensão de C, e tenta capturar a idéia de
+formas dando aos desenvolvedores a capacidade de abstrair o problema.
+Mas por que Platão não programaria em Java? Ele opderia, mas ele não
+estava tão certo que símbolos poderiam representar suas formas
+perfeitamente, e analogamente, C++ continua sendo um superconjunto de C,
+sendo compatível com a sintaxe de C.</p>
+<p><strong>Estóicos: A comunidade feliz de Perl</strong></p>
+<p>O estoicismo tem um impacto silencioso na cultura global e não há
+ninguém diretamente por trás dessa escola de pensamento, ela foi
+descrita por conquistas intelectuais colaborativas.</p>
+<p>Os estóicos negam qualquer coisa imaterial e tenta explicar o mundo por
+uma lógica. Eles rejeitam tudo que é ideal e se concentram na
+moralidade, apreciando a liberdade da introspecção para alcançar a
+verdadeira sabedoria. As pessoas devem ser irmãs, sem distinções e devem
+contribuir para uma sociedade de amizade, paz e amor.</p>
+<div class="figure" style="width: 347px; height: auto; max-width: 100%;">
+<img alt="Mensagem hippie usando expressões regulares!" class="align-center" src="images/perl2.jpg" style="width: 347px; height: auto; max-width: 100%;"/>
+<p class="caption">Mensagem hippie usando expressões regulares!</p>
+</div>
+<p>O Perl é uma linguagem livre de forma. A frase mais comum no mundo Perl
+é "existe mais de uma maneira de fazer isso. A filosofia por trás de
+Perl rejeita restrições sintáticas, dando a liberdade aos programadores
+de codificar ao seu estilo, mas ao mesmo tempo encoraja o
+compartilhamento e a contribuição para a comunidade.</p>
+<p>O poder de Perl se deve em grande parte a existência da CPAN, o arquivo
+de módulos (bibliotecas) e software alegremente compartilhados por
+programadores ao redor do mundo. A influência da linguagem do mundo da
+programação tem sido silenciosa, podendo-se citar a influência para
+linguagens de scripting, tipagem dinâmica e programação funcional.</p>
+<p><strong>René Descartes: O verdadeiro guru Java</strong></p>
+<p>O cerne da filosofia de Descartes  (que está no famoso livro "<a class="reference external" href="http://en.wikipedia.org/wiki/Principles_of_Philosophy">Principia
+Philosophiae</a>") é o conceito de cogito (ego intelectual). Ele
+acreditava que a dúvida é a prova da existência, e o cogito é a causa da
+dúvida, o que nos leva a famosa frase "cogito ergo sum" (I think
+therefore I am). O cogito nada mais é do que outro processo que fazemos,
+mas na verdade comanda tudo que nós fazemos.
+Então, o que queremos, imaginamos ou sentimos é acessível apenas através dele.
+O pensar seria um método da classe abstrata Thinker, talvez?</p>
+<div class="figure" style="width: 431px; height: auto; max-width: 100%;">
+<img alt="Descartes extends Thinker" class="align-center" src="images/descartes.jpg" style="width: 431px; height: auto; max-width: 100%;"/>
+<p class="caption">Descartes extends Thinker</p>
+</div>
+<p>Descartes também é responsável por outra revolução no campo da
+filosofia. A partir do seu trabalho, os filósofos passam a evitar
+abstrações confusas e estabelecer uma forma sucinta, praticamente
+geométrica, já que ele apresentava suas idéias na forma de teoremas.</p>
+<p>Descartes seria um perfeito guru Java. Java é uma linguagem fortemente
+tipada, na qual tudo deve ter um tipo (ou compartilhar uma forma) antes
+de ser usada. Isso combina perfeitamente com os esforços de Descartes de
+ser sempre exato sobre o que estava falando. O cogito é de fato uma nova
+maneira de pensar as formas de Platão, com uma ligeira variação na qual
+ideias existem porque nós pensamos sobre elas e não em outro universo. A
+respeito disso, a filosofia é puramente orientada a objeto, dado que as
+solução em que chegamos são produtos diretos dos nossos intelectos.</p>
+<p><strong>Immanuel Kant: O primeiro programador Python</strong></p>
+<p>Kant encontrou uma forma de combinar duas metodologias opositoras da
+filosofia: o logicismo de Descartes e o empirismo quando disse: "Que tal
+os dois?". Kant investigou como os humanos raciocinam, alegando que a
+experiência oferece a verdade, mas uma verdade que já foi filtrada por
+um julgamento intelectual lógico (a priori).</p>
+<p>No final da vida ele examinou a estética, e a teoria tentando explicar a
+maneira pela qual percebemos a beleza.
+Kant foi uma personalidade extremamente concisa, sendo obcecado por exatidão e organização.
+Similarmente, Python é uma linguagem que tenta combinar diferentes
+soluções e promove uma nova. Como a linguagem aceita diferentes
+paradgimas, de orientação a objeto a programação baseada em contratos.
+Os programadores Python rejeitam o formato livre de linguagens como
+Perl, e mesmo emprestando algumas características dela, eles enfatizam o
+código simples e explícito.</p>
+<p>Python se tornou tão "obcecado" por organização que impõe endentação de
+código e delimitadores de blocos de código aos seus usuários. No "Zen de
+Python", o primeiro dos 19 mandamentos é "O Belo é melhor que o feio". A
+obsessão de Kant pela beleza e a estética faz dele o primeiro
+programador Python.</p>
+<p>O que dizer de outros filósofos e linguagens? O que vocês acham? Dizem
+por aí que os sofistas (sic!) usam Visual Basic (sic!).</p>
+<p>Traduzido de <a class="reference external" href="http://developeronline.blogspot.com/2009/04/if-philosophers-were-programmers.html">If philosophers were programmers</a>. Faltou um no final,
+Wittgenstein e Haskell. Mas nenhum dos dois é muito conhecido, então
+ficaram de fora, até porque o post já tava gigante. Abraços.</p>
+</body></html>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3 well well-sm" id="sidebar">
+
+<aside>
+    <section>
+        <ul class="list-group list-group-flush">
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+                  <ul class="list-group" id="social">
+                    <li class="list-group-item"><a href="#"><i class="fa fa-you can add links in your config file-square fa-lg"></i> You can add links in your config file</a></li>
+                    <li class="list-group-item"><a href="#"><i class="fa fa-another social link-square fa-lg"></i> Another social link</a></li>
+                  </ul>
+                </li>
+
+
+
+                <li class="list-group-item"><a href="/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                    <ul class="list-group list-inline tagcloud" id="tags">
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/alagoas.html">
+                                alagoas
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/computer-science.html">
+                                computer science
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/debian.html">
+                                debian
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/folkosonomy.html">
+                                folkosonomy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/folksonomies.html">
+                                folksonomies
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/folksonomy.html">
+                                folksonomy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/free-software.html">
+                                free software
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/google.html">
+                                google
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/information-retrieval.html">
+                                information retrieval
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/kirux.html">
+                                kirux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/knowledge-reasoning.html">
+                                knowledge reasoning
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/knowledge-representation.html">
+                                knowledge representation
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/linked-data.html">
+                                linked data
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/linux.html">
+                                linux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/machine-learning.html">
+                                machine learning
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/metadata.html">
+                                metadata
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/microformats.html">
+                                microformats
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/ontology-learning.html">
+                                ontology learning
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/owl.html">
+                                owl
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/philosophy.html">
+                                philosophy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/programming.html">
+                                programming
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/programming-languages.html">
+                                programming languages
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/rdf.html">
+                                rdf
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/rdfa.html">
+                                rdfa
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/rss.html">
+                                rss
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/script-kiddie.html">
+                                script kiddie
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="/tag/semantic-web.html">
+                                semantic web
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/semantic-wiki.html">
+                                semantic wiki
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/social-networks.html">
+                                social networks
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="/tag/social-tagging.html">
+                                social tagging
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/tag-suggestion.html">
+                                tag suggestion
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/tagging.html">
+                                tagging
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/trends.html">
+                                trends
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/twitter.html">
+                                twitter
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/web.html">
+                                web
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/web-20.html">
+                                web 2.0
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/web-search.html">
+                                web search
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/wikis.html">
+                                wikis
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/wolfram.html">
+                                wolfram
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/wolfram-alpha.html">
+                                wolfram alpha
+                            </a>
+                        </li>
+                    </ul>
+                </li>    
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://getpelican.com/" target="_blank">
+                Pelican
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://python.org/" target="_blank">
+                Python.org
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="#" target="_blank">
+                You can modify those links in your config file
+            </a>
+        </li>
+      </ul>
+    </li>
+
+        </ul>
+    </section>
+
+</aside>        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2010 Ícaro Medeiros
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+</body>
+</html>

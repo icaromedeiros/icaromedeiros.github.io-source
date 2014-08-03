@@ -1,0 +1,4 @@
+pelican==3.3
+pelican-microdata==0.2
+Markdown==2.4.1
+Fabric==1.8.3

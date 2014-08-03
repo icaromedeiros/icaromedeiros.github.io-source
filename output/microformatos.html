@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+    <title>Microformatos - Ícaro Medeiros</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Ícaro Medeiros" />
+            <meta property="og:type" content="article"/>
+            <meta property="og:title" content="Microformatos"/>
+            <meta property="og:url" content="/microformatos.html"/>
+            <meta property="og:description" content="Microformatos são conjuntos de formatos abertos usados para aumentar a capacidade semântica do (X)HTML, adicionado metadados sobre contatos, feeds, eventos, etc. Basicamente são usados em atributos (X)HTML como class e rel, sim, funciona com uma gambiarra do jeito que deu pra fazer. Por exemplo, pode-se dizer que (Exemplo ..."/>
+            <meta property="article:published_time" content="2009-09-03" />
+                <meta property="article:section" content="misc" />
+                <meta property="article:tag" content="microformats" />
+                <meta property="article:tag" content="rdfa" />
+                <meta property="article:tag" content="semantic web" />
+                <meta property="article:tag" content="linked data" />
+                <meta property="article:author" content="Icaro Medeiros" />
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="/theme/css/style.css" type="text/css"/>
+
+
+</head>
+<body>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="navbar-brand">
+Ícaro Medeiros            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="/pages/about.html">
+                             Sobre mim (About)
+                          </a></li>
+                        <li class="active">
+                            <a href="/category/misc.html">Misc</a>
+                        </li>
+                        <li >
+                            <a href="/category/semantic-web.html">Semantic web</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9">
+
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="/microformatos.html"
+                       rel="bookmark"
+                       title="Permalink to Microformatos">
+                        Microformatos
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+                <div class="panel">
+                    <div class="panel-body">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2009-09-03T02:52:00"> 2009-09-03 02:52:00</time>
+    </span>
+
+
+
+    <p> <span class="label label-default">Tags</span>
+	<a href="/tag/microformats.html">microformats</a>
+        /
+	<a href="/tag/rdfa.html">rdfa</a>
+        /
+	<a href="/tag/semantic-web.html">semantic web</a>
+        /
+	<a href="/tag/linked-data.html">linked data</a>
+ </p>
+    
+</footer><!-- /.post-info -->                    </div>
+                </div>
+                <html><body><p>Microformatos são conjuntos de formatos abertos usados para aumentar a capacidade semântica do (X)HTML, adicionado metadados sobre contatos, feeds, eventos, etc.</p>
+<div class="figure" style="width: 292px; height: auto; max-width: 100%;">
+<img alt="" class="align-center" src="images/microformats-logo.png" style="width: 292px; height: auto; max-width: 100%;"/>
+</div>
+<p>Basicamente são usados em atributos (X)HTML como class e rel, sim, funciona com uma gambiarra do jeito que deu pra fazer.</p>
+<p>Por exemplo, pode-se dizer que (Exemplo Wikipédico):</p>
+<div class="line-block">
+<div class="line">[sourcecode language='html']</div>
+<div class="line-block">
+<div class="line">O avião Air France 447 caiu nas coordenadas</div>
+<div class="line"><br/></div>
+<div class="line">48.15,</div>
+<div class="line">-16.2342</div>
+<div class="line"><br/></div>
+<div class="line">[/sourcecode]</div>
+</div>
+</div>
+<p>Essa informação é lida por browsers, ferramentas de busca e outros
+sistemas que conseguem "entender" que aqueles dados são referentes a
+coordenadas geográficas. Isso permite tarefas como:</p>
+<blockquote>
+<ul class="simple">
+<li>Indexar e recuperar consultas baseadas em coordenadas geográficas (num sistema de busca)</li>
+<li>Encontrar no mapa essas coordenadas oferecendo uma informação contextual que o site original pode não oferecer</li>
+<li>Exportar a informação para um dispositivo GPS</li>
+</ul>
+</blockquote>
+<p>Uma grande aplicação recentemente (? Março) anunciada que usa
+Microformatos é o Google Rich Snippets. Primeiramente, snippets são
+aqueles resumos da página (geralmente contextualizados com a consulta)
+que aparecem nos resultados do Google abaixo dos links. Rich Snippets é
+uma tentativa do Google de mostrar algo a mais que apenas o conTEXTO da
+sua consulta, e se valer de dados estruturados da página para mostrar
+por exemplo reviews e notas para produtos e serviços pesquisados.</p>
+<div class="figure" style="width: 560px; height: auto; max-width: 100%;">
+<img alt="Rich Snippets na página de resultados do Google" class="align-center" src="images/rich-snippets.png" style="width: 560px; height: auto; max-width: 100%;"/>
+<p class="caption">Rich Snippets na página de resultados do Google</p>
+</div>
+<p>Páginas com snippets ricos tem maiores possibilidades de serem
+acesssadas, segundo experimentos deles. Mas, para que as páginas
+apareçam com esses resumos melhorados, os webmasters devem incluir
+anotações em microformatos (ou RDFa, tema do próximo post SÉRIO daqui)
+em suas páginas. Acho a iniciativa válida, mas ninguém tá com esse tempo
+de fazer isso na mão, ferramentas de edição que extraiam informação e
+detectem candidatos pra esses formatos são bem-vindas (quer ficar rico?
+fica a dica). Além disso a propaganda do tema ainda tá fraca, o culto é
+muito segregado e só tem uns bravos defensores, e não a W3C por trás.</p>
+<p>Alguns exemplos de microformatos</p>
+<blockquote>
+<ul class="simple">
+<li><a class="reference external" href="http://microformats.org/wiki/hatom">hAtom</a> - para marcação de feeds Atom</li>
+<li><a class="reference external" href="http://microformats.org/wiki/hcalendar">hCalendar</a> - para eventos</li>
+<li><a class="reference external" href="http://microformats.org/wiki/hcard">hCard</a> - para informação de contatos, incluindo endereço, localização geográfica, etc.</li>
+<li><a class="reference external" href="http://microformats.org/wiki/hproduct">hProduct</a> - para informações sobre produtos</li>
+<li><a class="reference external" href="http://microformats.org/wiki/hreview">hReview</a> - para reviews de livros, filmes, restaurantes, etc.</li>
+</ul>
+</blockquote>
+<p>Saiba mais: <a class="reference external" href="http://microformats.org/">http://microformats.org/</a></p>
+</body></html>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+        <div class="col-sm-3 well well-sm" id="sidebar">
+
+<aside>
+    <section>
+        <ul class="list-group list-group-flush">
+                <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+                  <ul class="list-group" id="social">
+                    <li class="list-group-item"><a href="#"><i class="fa fa-you can add links in your config file-square fa-lg"></i> You can add links in your config file</a></li>
+                    <li class="list-group-item"><a href="#"><i class="fa fa-another social link-square fa-lg"></i> Another social link</a></li>
+                  </ul>
+                </li>
+
+
+
+                <li class="list-group-item"><a href="/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                    <ul class="list-group list-inline tagcloud" id="tags">
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/alagoas.html">
+                                alagoas
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/computer-science.html">
+                                computer science
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/debian.html">
+                                debian
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/folkosonomy.html">
+                                folkosonomy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/folksonomies.html">
+                                folksonomies
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/folksonomy.html">
+                                folksonomy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/free-software.html">
+                                free software
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/google.html">
+                                google
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/information-retrieval.html">
+                                information retrieval
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/kirux.html">
+                                kirux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/knowledge-reasoning.html">
+                                knowledge reasoning
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/knowledge-representation.html">
+                                knowledge representation
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/linked-data.html">
+                                linked data
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/linux.html">
+                                linux
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/machine-learning.html">
+                                machine learning
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/metadata.html">
+                                metadata
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/microformats.html">
+                                microformats
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/ontology-learning.html">
+                                ontology learning
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/owl.html">
+                                owl
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/philosophy.html">
+                                philosophy
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/programming.html">
+                                programming
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/programming-languages.html">
+                                programming languages
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/rdf.html">
+                                rdf
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/rdfa.html">
+                                rdfa
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/rss.html">
+                                rss
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/script-kiddie.html">
+                                script kiddie
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="/tag/semantic-web.html">
+                                semantic web
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/semantic-wiki.html">
+                                semantic wiki
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/social-networks.html">
+                                social networks
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-1">
+                            <a href="/tag/social-tagging.html">
+                                social tagging
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-2">
+                            <a href="/tag/tag-suggestion.html">
+                                tag suggestion
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/tagging.html">
+                                tagging
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/trends.html">
+                                trends
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/twitter.html">
+                                twitter
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/web.html">
+                                web
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/web-20.html">
+                                web 2.0
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/web-search.html">
+                                web search
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/wikis.html">
+                                wikis
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/wolfram.html">
+                                wolfram
+                            </a>
+                        </li>
+                        <li class="list-group-item tag-4">
+                            <a href="/tag/wolfram-alpha.html">
+                                wolfram alpha
+                            </a>
+                        </li>
+                    </ul>
+                </li>    
+    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
+      <ul class="list-group" id="links">
+        <li class="list-group-item">
+            <a href="http://getpelican.com/" target="_blank">
+                Pelican
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="http://python.org/" target="_blank">
+                Python.org
+            </a>
+        </li>
+        <li class="list-group-item">
+            <a href="#" target="_blank">
+                You can modify those links in your config file
+            </a>
+        </li>
+      </ul>
+    </li>
+
+        </ul>
+    </section>
+
+</aside>        </div>
+    </div>
+</div>
+<footer>
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2010 Ícaro Medeiros
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
+</footer>
+<script src="/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="/theme/js/respond.min.js"></script>
+
+</body>
+</html>
