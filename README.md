@@ -16,9 +16,15 @@ Based in http://zonca.github.io/2013/09/automatically-build-pelican-and-publish-
 Using travis
 ============
 
+First, log into travis
+
 travis login --pro
 
+Then encrypt token to update .travis.yml
+
 travis encrypt GH_TOKEN=MY_TOKEN --add env.global
+
+
 
 Original post
 =============
