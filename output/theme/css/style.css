@@ -86,17 +86,10 @@ a, a:hover {
     height: auto;
 }
 
-.entry-content figcaption{
+.entry-content figcaption, .caption {
     font-size: small;
     margin-bottom: 2px;
 }
-
-.caption {
-    font-size: small;
-    margin-bottom: 2px;
-    align: center 
-}
-
 
 .floatright, .align-right {
     float: right;
