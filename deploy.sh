@@ -3,11 +3,8 @@ BRANCH=master
 TARGET_REPO=icaromedeiros/icaromedeiros.github.io.git
 PELICAN_OUTPUT_FOLDER=output
 
-echo -e "Testing travis-encrypt"
-echo -e "$VARNAME"
-
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
-    echo -e "Starting to deploy to Github Pages\n"
+    echo "Starting to deploy to Github Pages\n"
     if [ "$TRAVIS" == "true" ]; then
         git config --global user.email "travis@travis-ci.org"
         git config --global user.name "Travis"
@@ -21,5 +18,5 @@ if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
     git add -f .
     git commit -m "Travis build $TRAVIS_BUILD_NUMBER pushed to Github Pages"
     git push -fq origin $BRANCH > /dev/null
-    echo -e "Deploy completed\n"
+    echo "Deploy completed\n"
 fi

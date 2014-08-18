@@ -16,7 +16,7 @@ THEME = 'pelican-bootstrap3'
 PLUGIN_PATH = 'pelican-plugins'
 
 # Which plugins to enable
-PLUGINS = ['better_figures_and_images', 'github_activity']
+PLUGINS = ['better_figures_and_images']
 
 DEFAULT_LANG = u'en'
 
@@ -39,6 +39,8 @@ SOCIAL = (('twitter', 'http://twitter.com/icaromedeiros'),
           ('github', 'http://github.com/icaromedeiros'),)
 
 DEFAULT_PAGINATION = 10
+
+GOOGLE_ANALYTICS = "UA-53907792-1"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
