@@ -21,4 +21,22 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+
+###
+# Services
+###
+
+# Github options
+GITHUB_USER = "icaromedeiros"
+GITHUB_SHOW_USER_LINK = True
+
+# Twitter feed configs
+TWITTER_USERNAME = "icaromedeiros"
+TWITTER_WIDGET_ID = 501159537634590722
+
+# AddThis
+ADDTHIS_PROFILE = "ra-53f14e6163baee9f"
+ADDTHIS_DATA_TRACK_ADDRESSBAR = False
+
+# Analytics
+GOOGLE_ANALYTICS = "UA-53907792-1"

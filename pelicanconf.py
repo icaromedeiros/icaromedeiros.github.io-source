@@ -5,10 +5,9 @@ from __future__ import unicode_literals
 AUTHOR = u'Ícaro Medeiros'
 SITENAME = u'Ícaro Medeiros'
 
-# TODO how to change this when deploying?
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Sao_Paulo'
 
 THEME = 'pelican-bootstrap3'
 
@@ -19,6 +18,9 @@ PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['better_figures_and_images']
 
 DEFAULT_LANG = u'en'
+
+DEFAULT_CATEGORY = "Blog"
+REVERSE_CATEGORY_ORDER = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -32,6 +34,9 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 # http://blog.schema.org/
 # http://manu.sporny.org/
 # http://ruben.verborgh.org/
+# http://talleye.com/
+# Renan
+
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/icaromedeiros'),
@@ -40,7 +45,6 @@ SOCIAL = (('twitter', 'http://twitter.com/icaromedeiros'),
 
 DEFAULT_PAGINATION = 10
 
-GOOGLE_ANALYTICS = "UA-53907792-1"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -70,18 +74,6 @@ PYGMENTS_STYLE = 'monokai'
 
 # Paging without page number
 USE_PAGER = True
-
-# Github options
-GITHUB_USER = "icaromedeiros"
-GITHUB_SHOW_USER_LINK = True
-
-# Twitter feed configs
-TWITTER_USERNAME = "icaromedeiros"
-TWITTER_WIDGET_ID = 501159537634590722
-
-# AddThis
-ADDTHIS_PROFILE = "ra-53f14e6163baee9f"
-ADDTHIS_DATA_TRACK_ADDRESSBAR = False
 
 # TODO opengraph
 

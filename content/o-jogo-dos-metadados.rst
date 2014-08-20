@@ -2,7 +2,7 @@ O jogo dos (meta)dados
 ######################
 :date: 2008-11-05 21:30
 :author: Icaro Medeiros
-:tags: folkosonomy, metadata, semantic wiki, social tagging, wikis, tagging
+:tags: folksonomy, metadata, semantic wikis, social tagging, wikis, tagging
 :slug: o-jogo-dos-metadados
 
 Houve uma discussão sobre a burocracia da Web Semântica num post anterior.

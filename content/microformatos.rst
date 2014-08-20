@@ -5,41 +5,39 @@ Microformatos
 :tags: microformats, rdfa, semantic web, linked data
 :slug: microformatos
 
-Microformatos são conjuntos de formatos abertos usados para aumentar a capacidade semântica do (X)HTML, adicionado metadados sobre contatos, feeds, eventos, etc.
+`Microformatos <http://microformats.org/>`_ são conjuntos de formatos abertos usados para aumentar a capacidade semântica do HTML, adicionando metadados sobre contatos, feeds, eventos, etc.
 
 .. figure:: images/microformats-logo.png
+   :alt: Microformatos
    :class: align-center
 
-Basicamente são usados em atributos (X)HTML como class e rel, sim, funciona com uma gambiarra do jeito que deu pra fazer.
+Basicamente são usados em atributos (X)HTML como ``class`` e ``rel``.
 
 Por exemplo, pode-se dizer que (Exemplo Wikipédico):
 
-| [sourcecode language='html']
-|  O avião Air France 447 caiu nas coordenadas
-| 
-|  48.15,
-|  -16.2342
-| 
-|  [/sourcecode]
+.. code-block:: html
 
-Essa informação é lida por browsers, ferramentas de busca e outros
-sistemas que conseguem "entender" que aqueles dados são referentes a
-coordenadas geográficas. Isso permite tarefas como:
+    O avião Air France 447 caiu nas coordenadas
+    <span class="geo">
+     <span class="latitude">48.15</span>,
+     <span class="longitude">-16.2342</span>
+    </span>
 
-    * Indexar e recuperar consultas baseadas em coordenadas geográficas (num sistema de busca)
+Essa informação é lida por browsers, ferramentas de busca e outros sistemas que conseguem "entender" que aqueles dados são referentes a coordenadas geográficas.
 
-    * Encontrar no mapa essas coordenadas oferecendo uma informação contextual que o site original pode não oferecer
+Isso permite tarefas como:
 
-    * Exportar a informação para um dispositivo GPS
+* Indexar e recuperar consultas baseadas em coordenadas geográficas (num sistema de busca)
 
+* Encontrar no mapa essas coordenadas oferecendo uma informação contextual que o site original pode não oferecer
 
-Uma grande aplicação recentemente (? Março) anunciada que usa
-Microformatos é o Google Rich Snippets. Primeiramente, snippets são
-aqueles resumos da página (geralmente contextualizados com a consulta)
-que aparecem nos resultados do Google abaixo dos links. Rich Snippets é
-uma tentativa do Google de mostrar algo a mais que apenas o conTEXTO da
-sua consulta, e se valer de dados estruturados da página para mostrar
-por exemplo reviews e notas para produtos e serviços pesquisados.
+* Exportar a informação para um dispositivo GPS
+
+Uma grande aplicação recentemente anunciada que usa Microformatos é o `Google Rich Snippets <https://support.google.com/webmasters/answer/99170?hl=en>`_.
+
+Snippets são aqueles resumos da página (geralmente contextualizados com a consulta) que aparecem nos resultados do Google abaixo dos links.
+
+Rich Snippets são uma tentativa do Google de mostrar algo a mais que apenas o conTEXTO da sua consulta, e se valer de dados estruturados da página para mostrar por exemplo reviews e notas para produtos e serviços pesquisados.
 
 .. figure:: images/rich-snippets.png
    :alt: Rich Snippets na página de resultados do Google
@@ -47,27 +45,21 @@ por exemplo reviews e notas para produtos e serviços pesquisados.
 
    Rich Snippets na página de resultados do Google
 
-Páginas com snippets ricos tem maiores possibilidades de serem
-acesssadas, segundo experimentos deles. Mas, para que as páginas
-apareçam com esses resumos melhorados, os webmasters devem incluir
-anotações em microformatos (ou RDFa, tema do próximo post SÉRIO daqui)
-em suas páginas. Acho a iniciativa válida, mas ninguém tá com esse tempo
-de fazer isso na mão, ferramentas de edição que extraiam informação e
-detectem candidatos pra esses formatos são bem-vindas (quer ficar rico?
-fica a dica). Além disso a propaganda do tema ainda tá fraca, o culto é
-muito segregado e só tem uns bravos defensores, e não a W3C por trás.
+Páginas com snippets ricos tem maiores possibilidades de serem acesssadas, segundo experimentos deles.
 
-Alguns exemplos de microformatos
+Mas, para que as páginas apareçam com esses resumos melhorados, os webmasters devem incluir anotações em microformatos (ou `RDFa <http://rdfa.info/>`_) em suas páginas.
 
-    * `hAtom`_ - para marcação de feeds Atom
+Alguns exemplos de microformatos:
 
-    *  `hCalendar`_ - para eventos
+* `hAtom`_ - para marcação de feeds Atom
 
-    *  `hCard`_ - para informação de contatos, incluindo endereço, localização geográfica, etc.
+* `hCalendar`_ - para eventos
 
-    *  `hProduct`_ - para informações sobre produtos
+* `hCard`_ - para informação de contatos, incluindo endereço, localização geográfica, etc.
 
-    *  `hReview`_ - para reviews de livros, filmes, restaurantes, etc.
+* `hProduct`_ - para informações sobre produtos
+
+* `hReview`_ - para reviews de livros, filmes, restaurantes, etc.
 
 Saiba mais: http://microformats.org/
 
