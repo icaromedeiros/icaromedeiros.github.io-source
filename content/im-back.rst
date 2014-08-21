@@ -9,8 +9,7 @@ I have blogged `elsewhere <http://kirux.wordpress.com>`_ during my Master's [200
 
 Now I have this new blog proudly built using `Pelican <http://blog.getpelican.com/>`_, `Python <http://python.org>`_, `RestructuredText <http://sphinx-doc.org/rest.html>`_, and the *awesome ultimate blogging deploy system* that `Github Pages <http://pages.github.com>`_ offers.
 
-A few words about blogging tools
---------------------------------
+**A few words about blogging tools**
 
 Some of my not-so-formal requirements for a blogging tool that made me did these choices:
 
@@ -26,3 +25,5 @@ Some of my not-so-formal requirements for a blogging tool that made me did these
 `Wordpress <http://wordpress.org>`_ is enough for most people, but basically fails in items 1, 2, 3.
 
 `Jekyll <http://jekyllrb.com/>`_/`Octopress <http://octopress.org/>`_ seemed  programmer-friendly from the start, but Python is a low entry barrier for me, specially for implementing microdata semantic annotation (item 7), as there is a `plugin <https://github.com/noirbizarre/pelican-microdata>`_ already.
+
+...
