@@ -13,7 +13,7 @@ Microformatos
 
 Basicamente são usados em atributos (X)HTML como ``class`` e ``rel``.
 
-Por exemplo, pode-se dizer que (Exemplo Wikipédico):
+Por exemplo, pode-se dizer que
 
 .. code-block:: html
 

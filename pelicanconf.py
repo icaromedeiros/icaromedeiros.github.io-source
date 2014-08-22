@@ -76,7 +76,7 @@ PYGMENTS_STYLE = 'monokai'
 USE_PAGER = True
 
 # TODO opengraph
-
+# TODO representative images
 
 ###
 # Services
