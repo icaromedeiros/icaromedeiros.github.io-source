@@ -4,6 +4,8 @@ TARGET_REPO=icaromedeiros/icaromedeiros.github.io.git
 PELICAN_OUTPUT_FOLDER=output
 
 if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then
+    echo "Compiling as make publish"
+    make publish
     echo "Starting to deploy to Github Pages\n"
     if [ "$TRAVIS" == "true" ]; then
         git config --global user.email "travis@travis-ci.org"
