@@ -39,4 +39,3 @@ My master's thesis:
 .. raw:: html
 
     <p><a title="View Tag Suggestion using Multiple Sources of Knowledge on Scribd" href="http://www.scribd.com/doc/237454966/Tag-Suggestion-using-Multiple-Sources-of-Knowledge"  style="text-decoration: underline;" target="_blank">Tag Suggestion using Multiple Sources of Knowledge</a></p>
-    <iframe class="scribd_iframe_embed" src="//www.scribd.com/embeds/237454966/content?start_page=1&view_mode=scroll&show_recommendations=true" data-auto-height="false" data-aspect-ratio="undefined" scrolling="no" id="doc_43060" width="50%" height="300" frameborder="0"></iframe>
