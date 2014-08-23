@@ -1,5 +1,5 @@
 pelican==3.3
--e git+ssh://git@github.com:/caromedeiros/pelican-microdata.git
+-e git+ssh://git@github.com/icaromedeiros/pelican-microdata.git#egg=pelican_microdata
 
 Markdown==2.4.1
 Fabric==1.8.3

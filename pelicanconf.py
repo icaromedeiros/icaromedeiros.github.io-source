@@ -76,7 +76,10 @@ PYGMENTS_STYLE = 'monokai'
 # Paging without page number
 USE_PAGER = True
 
-# TODO opengraph
+# Show 'about me'
+SHOW_ABOUTME = True
+ABOUTME = True
+
 # TODO representative images
 
 ###
