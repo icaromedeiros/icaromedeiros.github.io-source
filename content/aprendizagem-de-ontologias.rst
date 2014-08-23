@@ -1,9 +1,7 @@
 Aprendizagem de Ontologias
 ##########################
 :date: 2008-10-31 02:38
-:author: Icaro Medeiros
 :tags: machine learning, ontology learning, semantic web, ontologies, linked data, information retrieval
-:slug: aprendizagem-de-ontologias
 
 Vai aí um seminário que apresentei mês passado aqui no `mestrado <http://www.cin.ufpe.br/~in1099/082/>`_, é uma apresentação sobre Ontology Learning.
 

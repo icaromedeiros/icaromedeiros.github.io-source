@@ -1,7 +1,6 @@
 E se os filósofos fossem programadores?
 #######################################
 :date: 2009-04-21 17:46
-:author: Icaro Medeiros
 :tags: computer science, philosophy, programming
 :slug: e-se-os-filosofos-fossem-programadores
 

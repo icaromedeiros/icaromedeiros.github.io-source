@@ -1,9 +1,7 @@
 RSS e Twitter no mesmo (ciber)espaço
 ####################################
 :date: 2009-05-12 11:15
-:author: Icaro Medeiros
 :tags: rss, trends, twitter, web 2.0
-:slug: rss-e-twitter-no-mesmo-ciberespaco
 
 Depois de uma semana usando o Twitter, vendo a quantidade (e a velocidade!) de links sugeridos pra lá e pra cá: Será que o RSS vai morrer desse jeito?
 

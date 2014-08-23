@@ -1,9 +1,7 @@
 Microformatos
 #############
 :date: 2009-09-03 02:52
-:author: Icaro Medeiros
 :tags: microformats, rdfa, semantic web, linked data
-:slug: microformatos
 
 `Microformatos <http://microformats.org/>`_ são conjuntos de formatos abertos usados para aumentar a capacidade semântica do HTML, adicionando metadados sobre contatos, feeds, eventos, etc.
 

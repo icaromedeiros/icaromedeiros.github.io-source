@@ -1,9 +1,7 @@
 A fantástica fábrica de conhecimento
 #####################################
 :date: 2008-10-23 14:03
-:author: Icaro Medeiros
 :tags: folksonomy, social tagging, tagging
-:slug: a-fantastica-fabrica-de-conhecimento
 
 É só pensar nas primeiras palavras que nos vêm a cabeça sobre o conteúdo de uma página Web e digitar numa caixinha e mandar pro `Digg`_, pro `Del.icio.us`_, pro `flickr`_.
 

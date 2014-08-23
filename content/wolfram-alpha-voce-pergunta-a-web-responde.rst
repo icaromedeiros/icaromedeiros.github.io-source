@@ -1,9 +1,7 @@
 Wolfram Alpha - Você pergunta, a Web responde!?
 ###############################################
 :date: 2009-05-06 23:35
-:author: Icaro Medeiros
 :tags: web search, google, knowledge reasoning, knowledge representation, wolfram, wolfram alpha
-:slug: wolfram-alpha-voce-pergunta-a-web-responde
 
 Depois dos fracassos de Cuil e Wikia, mais um Google Killer wannabe?
 Acho que dessa vez não.

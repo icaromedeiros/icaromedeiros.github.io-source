@@ -1,9 +1,7 @@
 Sugestão de tags
 ################
 :date: 2008-12-04 01:11
-:author: Icaro Medeiros
 :tags: social tagging, tagging, tag suggestion, web
-:slug: sugestao-de-tags
 
 Sugestão de tags é a tarefa de ajudar os usuários a etiquetar recursos (ex: `páginas no del.icio.us`_) recomendando tags relevantes.
 A principal estratégia é usar tags já usadas para descrever o mesmo conteúdo ou recursos similares.

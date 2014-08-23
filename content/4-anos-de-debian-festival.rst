@@ -1,9 +1,7 @@
 4 anos de Debian Festival
 #########################
 :date: 2009-08-20 16:51
-:author: Icaro Medeiros
 :tags: debian, free software, linux, alagoas
-:slug: 4-anos-de-debian-festival
 
 Falando do evento que ajudei a criar e organizar em Maceió cuja quarta edição aconteceu essa semana:
 O Debian Festival 4.0.

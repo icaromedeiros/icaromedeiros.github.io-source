@@ -1,9 +1,7 @@
 Web Semântica e o efeito do Fax
 ###############################
 :date: 2008-11-13 06:16
-:author: Icaro Medeiros
 :tags: rdf, owl, semantic web, social networks
-:slug: web-semantica-e-o-efeito-do-fax
 
 Lendo o livro do Peter Mika, `Web Semântica e Redes Sociais`_, na parte sobre a adoção da Web semântica, se fala do efeito do Fax, que emperra a adoção em larga escala de RDF e OWL, p. ex.
 

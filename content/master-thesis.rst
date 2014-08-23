@@ -1,9 +1,7 @@
 Master thesis
 #############
 :date: 2009-09-23 15:27
-:author: Icaro Medeiros
 :tags: folksonomy, information retrieval, machine learning, social tagging, tag suggestion, tagging
-:slug: master-thesis
 
 Bom, o assunto da dissertação: `Folksonomias`_ e Sugestão de tags.
 
