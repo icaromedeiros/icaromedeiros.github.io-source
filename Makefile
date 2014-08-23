@@ -116,5 +116,5 @@ update_theme:
 	cd ../pelican-bootstrap3
 	git commit -am "updating theme"
 	git push
-	cd -
+	cd ~/workspace/blog
 	git submodule update
