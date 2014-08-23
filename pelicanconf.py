@@ -15,7 +15,7 @@ THEME = 'pelican-bootstrap3'
 PLUGIN_PATH = 'pelican-plugins'
 
 # Which plugins to enable
-PLUGINS = ['better_figures_and_images', 'pelican_youtube']
+PLUGINS = ['better_figures_and_images', 'pelican_youtube', 'microdata']
 
 DEFAULT_LANG = u'en'
 
@@ -100,3 +100,5 @@ ADDTHIS_DATA_TRACK_ADDRESSBAR = False
 ###
 
 RESPONSIVE_IMAGES = True
+
+MICRODATA_VOCABULARY = "http://schema.org"
