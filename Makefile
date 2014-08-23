@@ -113,3 +113,4 @@ deploy: html
 
 update_theme:
 	cp -rvf pelican-bootstrap3/* ../pelican-bootstrap3; cd ../pelican-bootstrap3; git commit -am "updating theme"; git push
+	cd pelican-bootstrap3; git checkout -- .; git checkout master; git pull

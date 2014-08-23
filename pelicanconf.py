@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ícaro Medeiros'
 SITENAME = u'Ícaro Medeiros'
+DESCRIPTION = u"Ícaro Medeiros blog - Software Engineer"
 
 SITEURL = ''
 
