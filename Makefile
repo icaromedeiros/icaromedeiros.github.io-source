@@ -114,6 +114,7 @@ deploy: html
 update_theme:
 	cp -rvf pelican-bootstrap3/* ../pelican-bootstrap3
 	cd ../pelican-bootstrap3
+	echo `pwd`
 	git commit -am "updating theme"
 	git push
 	cd ~/workspace/blog
