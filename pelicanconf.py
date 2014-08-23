@@ -5,8 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Ícaro Medeiros'
 SITENAME = u'Ícaro Medeiros'
 
-SITEURL = 'http://www.icaromedeiros.com.br'
-RELATIVE_URLS = True
+SITEURL = ''
 
 TIMEZONE = 'America/Sao_Paulo'
 
