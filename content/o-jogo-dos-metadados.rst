@@ -2,6 +2,7 @@ O jogo dos (meta)dados
 ######################
 :date: 2008-11-05 21:30
 :tags: folksonomy, metadata, semantic wikis, social tagging, wikis, tagging
+:image: images/typed-links1.png
 
 Houve uma discussão sobre a burocracia da Web Semântica num post anterior.
 Não precisa ser tão burocrático!

@@ -2,6 +2,7 @@
 #########################
 :date: 2009-08-20 16:51
 :tags: debian, free software, linux, alagoas
+:image: images/df2.jpg
 
 Falando do evento que ajudei a criar e organizar em Maceió cuja quarta edição aconteceu essa semana:
 O Debian Festival 4.0.

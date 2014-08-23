@@ -23,4 +23,6 @@ O resultado disso pode ser visto nos slides abaixo:
 
 .. raw:: html
 
-    <iframe src="//www.slideshare.net/slideshow/embed_code/4865492" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/icaromedeiros/tag-suggestion-using-mu" title="Tag Suggestion using Multiple Sources of Knowledge" target="_blank">Tag Suggestion using Multiple Sources of Knowledge</a> </strong> from <strong><a href="http://www.slideshare.net/icaromedeiros" target="_blank">Ícaro Medeiros</a></strong> </div>
+    <center>
+        <iframe src="//www.slideshare.net/slideshow/embed_code/4865492" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/icaromedeiros/tag-suggestion-using-mu" title="Tag Suggestion using Multiple Sources of Knowledge" target="_blank">Tag Suggestion using Multiple Sources of Knowledge</a> </strong> from <strong><a href="http://www.slideshare.net/icaromedeiros" target="_blank">Ícaro Medeiros</a></strong> </div>
+    </center>

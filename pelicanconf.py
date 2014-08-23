@@ -85,8 +85,6 @@ PhD candidate at <a href="http://www.inf.puc-rio.br">PUC-RIO</a><br/>
 # Avatar
 OPEN_GRAPH_IMAGE = AVATAR = "images/avatar.png"
 
-# TODO representative images
-
 ###
 # Services
 ###
