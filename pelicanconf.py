@@ -78,7 +78,13 @@ USE_PAGER = True
 
 # Show 'about me'
 SHOW_ABOUTME = True
-ABOUTME = True
+ABOUT_ME = """
+Software Engineer at <a href="http://www.globo.com">Globo.com</a><br/>
+PhD candidate at <a href="http://www.inf.puc-rio.br">PUC-RIO</a><br/>
+"""
+
+# Avatar
+OPEN_GRAPH_IMAGE = AVATAR = "images/avatar.png"
 
 # TODO representative images
 
