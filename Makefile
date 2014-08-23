@@ -112,10 +112,4 @@ deploy: html
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
 
 update_theme:
-	cp -rvf pelican-bootstrap3/* ../pelican-bootstrap3
-	cd ../pelican-bootstrap3
-	echo `pwd`
-	git commit -am "updating theme"
-	git push
-	cd ~/workspace/blog
-	git submodule update
+	cp -rvf pelican-bootstrap3/* ../pelican-bootstrap3; cd ../pelican-bootstrap3; git commit -am "updating theme"; git push
