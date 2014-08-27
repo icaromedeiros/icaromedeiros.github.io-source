@@ -2,6 +2,7 @@ I'm back
 ########
 :date: 2014-08-10
 :tags: blogging
+:slug: im-back
 
 Hi folks.
 
@@ -20,10 +21,13 @@ Some of my not-so-formal requirements for a blogging tool that made me did these
 #. I want to import my old posts nicely.
 #. I want i18n (i.e. write both in `en` and `pt-br`).
 #. I want to write semantic annotations in my posts (using Microdata and `schema.org <http://schema.org>`_ easily).
-#. I want my blog to be responsive.
+#. I want my blog to be responsive, working nicely in mobile devices.
 
 `Wordpress <http://wordpress.org>`_ is enough for most people, but basically fails in items 1, 2, 3.
 
-`Jekyll <http://jekyllrb.com/>`_/`Octopress <http://octopress.org/>`_ seemed  programmer-friendly from the start, but Python is a low entry barrier for me, specially for implementing microdata semantic annotation (item 7), as there is a `plugin <https://github.com/noirbizarre/pelican-microdata>`_ already.
+`Jekyll <http://jekyllrb.com/>`_/`Octopress <http://octopress.org/>`_ seemed  programmer-friendly from the start, but Python is a low entry barrier for me than Ruby, specially for implementing microdata semantic annotation (item 7), as there is a `plugin <https://github.com/noirbizarre/pelican-microdata>`_ already.
 
-...
+Speaking of microdata, I just `improved pelican-microdata <http://github.com/icaromedeiros/pelican-microdata>`_ a little.
+
+PS: In fact, in item 6, it was a little bit frustrating the difficult of configuring `i18n subsites <https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites>`_ plugin.
+I just gave up and just used intra-article translations.

@@ -19,6 +19,7 @@ PLUGIN_PATH = 'pelican-plugins'
 PLUGINS = ['better_figures_and_images', 'pelican_youtube', 'microdata']
 
 DEFAULT_LANG = u'en'
+LOCALE = 'en_US'
 
 DEFAULT_CATEGORY = "Blog"
 REVERSE_CATEGORY_ORDER = False
@@ -111,3 +112,19 @@ DISQUS_SITENAME = "icaromedeiros"
 RESPONSIVE_IMAGES = True
 
 MICRODATA_VOCABULARY = "http://schema.org"
+
+
+###
+# Translations
+##
+
+LANG_CONFIG = {
+    "pt": {
+        "lang_label": u"Português",
+        "lang_text": u"Também disponível em"
+    },
+    "en": {
+        "lang_label": "English",
+        "lang_text": "Also available in"
+    }
+}
