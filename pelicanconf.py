@@ -121,10 +121,10 @@ MICRODATA_VOCABULARY = "http://schema.org"
 LANG_CONFIG = {
     "pt": {
         "lang_label": u"Português",
-        "lang_text": u"Também disponível em"
+        "lang_text": "Also available in"
     },
     "en": {
         "lang_label": "English",
-        "lang_text": "Also available in"
+        "lang_text": u"Também disponível em"
     }
 }
