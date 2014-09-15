@@ -17,9 +17,9 @@ Linked data in use
 
    Linked Data in Use
 
-In this talk I walk throgh Semantic Web initiatives, like RDF and SPARQL, linked data principles, discuss some implementation and adoption issues and talk about semantic annotation in HTML.
+In this talk I walk through Semantic Web initiatives, like RDF and SPARQL, linked data principles, discuss some implementation and adoption issues and talk about semantic annotation in HTML.
 
-Semantic annotation using the `Schema.org <http://schema.org>`_ vocabulary is demonstrated using both HTML 5 Microdata or `JSON-LD <http://json-ld.org>`_ input.
+Semantic annotation using the `Schema.org <http://schema.org>`_ vocabulary is demonstrated using both HTML 5 Microdata or `JSON-LD <json-ld.org>`_ input.
 
 .. figure:: images/schema-org-example.png
    :class: align-center
