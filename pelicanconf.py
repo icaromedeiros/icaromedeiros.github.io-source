@@ -30,15 +30,18 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
-# http://blog.schema.org/
-# http://manu.sporny.org/
-# http://ruben.verborgh.org/
-# http://talleye.com/
-# Renan
-
+LINKS = (
+    ('Renan Oliveira', 'http://renanoliveira.net/'),
+    # TODO loop infinito
+    # TODO dave
+    # TODO flavio
+    ('schema.org', 'http://blog.schema.org/'),
+    ('Coding horror', 'http://blog.codinghorror.com/'),
+    ('Many Sporny', 'http://manu.sporny.org/'),
+    ('Markus Lanthaler', 'http://www.markus-lanthaler.com/'),
+    ('Ruven Verborgh', 'http://ruben.verborgh.org/'),
+    ('Tall Eye', 'http://talleye.com/'),
+)
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/icaromedeiros'),

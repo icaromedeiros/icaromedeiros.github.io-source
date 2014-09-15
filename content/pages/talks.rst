@@ -9,6 +9,21 @@ In this page I share some of my presentations.
 
 The full list is in my `slideshare profile <http://www.slideshare.net/icaromedeiros>`_.
 
+Linked data in use (en)
+-----------------------
+
+**Front in Bahia**
+
+*Salvador, Brazil (2014)*
+
+In this talk I walk throgh Semantic Web initiatives, like RDF and SPARQL, linked data principles, discuss some implementation and adoption issues and talk about semantic annotation in HTML.
+
+Semantic annotation using the Schema.org vocabulary is demonstrated using both HTML 5 Microdata or JSON-LD input. There is a strong highlight in benefits seen in Google search results with Rich Snippets, Actions in Email, and Google Now with real examples.
+
+.. raw:: html
+
+  <iframe src="//www.slideshare.net/slideshow/embed_code/39052354" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 O futuro da busca na Web (pt-br)
 --------------------------------
 
