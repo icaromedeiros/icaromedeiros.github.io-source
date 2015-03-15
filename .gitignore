@@ -60,3 +60,9 @@ github_token
 
 # Output
 output/
+
+# Cache
+cache/
+
+# Mac OS
+.DS_Store

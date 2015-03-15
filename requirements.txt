@@ -1,4 +1,4 @@
-pelican==3.3
+pelican==3.5.0
 -e git+ssh://git@github.com/icaromedeiros/pelican-microdata.git#egg=pelican_microdata
 
 Markdown==2.4.1
@@ -11,3 +11,6 @@ beautifulsoup4==4.3.2
 PIL==1.1.7
 # youtube
 pelican-youtube==0.1.0
+
+--allow-external PIL
+--allow-unverified PIL
