@@ -116,6 +116,10 @@ RESPONSIVE_IMAGES = True
 
 MICRODATA_VOCABULARY = "http://schema.org"
 
+SHOW_ARTICLE_CATEGORY = True
+SHOW_ARTICLE_AUTHOR = False  # My name is all over it
+
+DEFAULT_DATE_FORMAT = ('%d %B %Y')
 
 ###
 # Translations

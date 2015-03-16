@@ -3,11 +3,17 @@ Talks
 :tags: talks
 :date: 2014-08-10
 
-One of the most rewarding things in Computer Science is to share knowledge and be part of a professional community.
+One of the most rewarding things in Computer Science is to share knowledge and be part of a
+vibrant professional community.
 
-In this page I share some of my presentations.
+Here is my slideshelf on `slideshare <http://www.slideshare.net/icaromedeiros>`_
+and below a short description of each presentation.
 
-The full list is in my `slideshare profile <http://www.slideshare.net/icaromedeiros>`_.
+Sorry if you are reading this on mobile, slideshare iframes are not mobile-friendly.
+
+.. raw:: html
+
+    <iframe src="http://www.slideshare.net/icaromedeiros/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 Linked data in use (en)
 -----------------------

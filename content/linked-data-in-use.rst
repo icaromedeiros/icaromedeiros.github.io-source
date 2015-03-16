@@ -39,4 +39,5 @@ Enjoy the slides here and feel free to comment.
 
 .. raw:: html
 
-  <iframe src="//www.slideshare.net/slideshow/embed_code/39052354" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+  <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/39052354"
+  width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
