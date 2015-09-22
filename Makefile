@@ -115,3 +115,7 @@ update_theme:
 	cp -rvf pelican-bootstrap3/* ../pelican-bootstrap3; cd ../pelican-bootstrap3; git commit -am "updating theme"; git push
 	cd pelican-bootstrap3; git checkout -- .; git checkout master; git pull
 	git commit -am "updating theme"; git push
+
+setup:
+	ln -sf /usr/local/include/freetype2 /usr/local/include/freetype
+	pip install -r requirements.txt
