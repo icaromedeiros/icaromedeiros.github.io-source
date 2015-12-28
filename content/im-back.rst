@@ -1,7 +1,7 @@
 I'm back
 ########
 :date: 2014-08-10
-:tags: blogging
+:tags: blogging, python, pelican
 :slug: im-back
 
 Hi folks.
