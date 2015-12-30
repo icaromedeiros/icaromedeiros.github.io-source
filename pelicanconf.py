@@ -16,7 +16,7 @@ THEME = 'pelican-bootstrap3'
 PLUGIN_PATHS = ['pelican-plugins']
 
 # Which plugins to enable
-PLUGINS = ['better_figures_and_images', 'pelican_youtube', 'microdata']
+PLUGINS = ['better_figures_and_images', 'pelican_youtube', 'microdata', 'simple_footnotes']
 
 DEFAULT_LANG = u'en'
 LOCALE = 'en_US'
@@ -29,19 +29,19 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-# Blogroll
-LINKS = (
-    ('Renan Oliveira', 'http://renanoliveira.net/'),
-    # TODO loop infinito
-    # TODO dave
-    # TODO flavio
-    ('schema.org', 'http://blog.schema.org/'),
-    ('Coding horror', 'http://blog.codinghorror.com/'),
-    ('Many Sporny', 'http://manu.sporny.org/'),
-    ('Markus Lanthaler', 'http://www.markus-lanthaler.com/'),
-    ('Ruven Verborgh', 'http://ruben.verborgh.org/'),
-    ('Tall Eye', 'http://talleye.com/'),
-)
+# # Blogroll
+# LINKS = (
+#     ('Renan Oliveira', 'http://renanoliveira.net/'),
+#     loop infinito
+#     dave
+#     flavio
+#     ('schema.org', 'http://blog.schema.org/'),
+#     ('Coding horror', 'http://blog.codinghorror.com/'),
+#     ('Many Sporny', 'http://manu.sporny.org/'),
+#     ('Markus Lanthaler', 'http://www.markus-lanthaler.com/'),
+#     ('Ruven Verborgh', 'http://ruben.verborgh.org/'),
+#     ('Tall Eye', 'http://talleye.com/'),
+# )
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/icaromedeiros'),
