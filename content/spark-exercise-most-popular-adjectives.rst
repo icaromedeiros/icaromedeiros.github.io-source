@@ -1,7 +1,7 @@
 An exercise to learn Spark: most popular adjectives by decade
 #############################################################
 :tags: big data, spark, python
-:date: 2015-09-25
+:date: 2015-XX-YY
 
 
 !! TODO CITAR !!
