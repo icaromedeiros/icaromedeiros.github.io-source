@@ -55,8 +55,8 @@ docs/_build/
 # PyCharmice
 .idea/
 
-# Token
-github_token
+# Built website to deploy 
+built_website/
 
 # Output
 output/
