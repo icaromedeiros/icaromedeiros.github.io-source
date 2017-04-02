@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ícaro Medeiros'
 SITENAME = u'Ícaro Medeiros'
-DESCRIPTION = u"Ícaro Medeiros blog - Software Engineer"
+DESCRIPTION = u"Ícaro Medeiros - Data Science, Software Engineering and random rants on tech"
 
 SITEURL = ''
 
@@ -16,7 +16,8 @@ THEME = 'pelican-bootstrap3'
 PLUGIN_PATHS = ['pelican-plugins']
 
 # Which plugins to enable
-PLUGINS = ['better_figures_and_images', 'pelican_youtube', 'microdata', 'simple_footnotes']
+PLUGINS = ['better_figures_and_images', 'pelican_youtube',
+           'microdata', 'simple_footnotes']
 
 DEFAULT_LANG = u'en'
 LOCALE = 'en_US'
@@ -28,20 +29,6 @@ REVERSE_CATEGORY_ORDER = False
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
-
-# # Blogroll
-# LINKS = (
-#     ('Renan Oliveira', 'http://renanoliveira.net/'),
-#     loop infinito
-#     dave
-#     flavio
-#     ('schema.org', 'http://blog.schema.org/'),
-#     ('Coding horror', 'http://blog.codinghorror.com/'),
-#     ('Many Sporny', 'http://manu.sporny.org/'),
-#     ('Markus Lanthaler', 'http://www.markus-lanthaler.com/'),
-#     ('Ruven Verborgh', 'http://ruben.verborgh.org/'),
-#     ('Tall Eye', 'http://talleye.com/'),
-# )
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/icaromedeiros'),
@@ -83,8 +70,9 @@ USE_PAGER = True
 # Show 'about me'
 SHOW_ABOUTME = True
 ABOUT_ME = """
-Software Engineer at <a href="http://www.globo.com">Globo.com</a><br/>
-PhD candidate at <a href="http://www.inf.puc-rio.br">PUC-RIO</a><br/>
+Data Scientist at
+<a href="http://www.telefonica.com.br/">Telefônica</a> |
+<a href="http://www.vivo.com.br/">Vivo</a>
 """
 
 # Avatar

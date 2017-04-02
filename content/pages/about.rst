@@ -13,8 +13,7 @@ About
 .. itemscope:: Person
     :tag: p
 
-    My name is :itemprop:`Ícaro Medeiros <name>` and currently I work as a :itemprop:`Software Engineer <jobTitle>` focused in Semantic applications at Globo.com.
-    I am also a PhD candidate at :itemprop:`Pontifical Catholic University of Rio de Janeiro (PUC-RIO) <affiliation>`.
+    My name is :itemprop:`Ícaro Medeiros <name>` and currently I work as a :itemprop:`Data Scientist <jobTitle>` at Telefônica | Vivo.
 
 My academic formation includes a Master's degree in Computer Science at Federal University of Pernambuco (UFPE, 2010) and a Bachelor's degree in Computer Science at Federal University of Alagoas (UFAL, 2007). In 2009 I worked as a researcher at INESC-ID Lisbon for 10 months.
 
@@ -22,7 +21,7 @@ Specialties: Software Engineering, Web Development, Semantic Web, Knowledge Base
 
 **Why to blog**
 
-To share information about technology, programming, Web, and my research.
+To share information about technology, programming, Computer Science research, etc.
 
 **Contact me**
 

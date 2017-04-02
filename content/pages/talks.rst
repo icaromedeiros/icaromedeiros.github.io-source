@@ -22,7 +22,7 @@ Linked data in use (en)
 
 *Salvador, Brazil (2014)*
 
-In this talk I walk throgh Semantic Web initiatives, like RDF and SPARQL, linked data principles, discuss some implementation and adoption issues and talk about semantic annotation in HTML.
+In this talk I walk through Semantic Web initiatives, like RDF and SPARQL, linked data principles, discuss some implementation and adoption issues and talk about semantic annotation in HTML.
 
 Semantic annotation using the Schema.org vocabulary is demonstrated using both HTML 5 Microdata or JSON-LD input. There is a strong highlight in benefits seen in Google search results with Rich Snippets, Actions in Email, and Google Now with real examples.
 
