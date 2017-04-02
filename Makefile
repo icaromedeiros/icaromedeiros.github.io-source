@@ -107,7 +107,7 @@ github: publish
 	git push origin gh-pages
 
 deploy: html
-	./deploy_from_local.sh
+	./deploy.sh
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
 
