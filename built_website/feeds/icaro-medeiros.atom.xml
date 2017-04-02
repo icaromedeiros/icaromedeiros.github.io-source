@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ícaro Medeiros</title><link href="http://www.icaromedeiros.com.br/" rel="alternate"></link><link href="http://www.icaromedeiros.com.br/feeds/icaro-medeiros.atom.xml" rel="self"></link><id>http://www.icaromedeiros.com.br/</id><updated>2017-03-12T00:00:00-03:00</updated><entry><title>Articles on Medium</title><link href="http://www.icaromedeiros.com.br/articles-on-medium.html" rel="alternate"></link><published>2017-03-12T00:00:00-03:00</published><updated>2017-03-12T00:00:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2017-03-12:articles-on-medium.html</id><summary type="html">&lt;p&gt;I've not updated the blog for some time but I've written some things on Medium,
+in portuguese.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;`Ondas gravitacionais, inovação e time-to-market
+&amp;lt;https://medium.com/@icaromedeiros/ondas-gravitacionais-inovação-e-time-to-market-6e6de242f52a&amp;gt;`_&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;`Como a cultura come Data Science com farinha
+&amp;lt;https://medium.com/@icaromedeiros/como-a-cultura-come-data-science-com-farinha-9050973302b4&amp;gt;`_&lt;/em&gt;&lt;/p&gt;
+</summary><category term="medium"></category><category term="data science"></category><category term="innovation"></category></entry><entry><title>Why Grey Literature?</title><link href="http://www.icaromedeiros.com.br/why-grey-literature.html" rel="alternate"></link><published>2017-03-12T00:00:00-03:00</published><updated>2017-03-12T00:00:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2017-03-12:why-grey-literature.html</id><summary type="html">&lt;p&gt;Academic publishing sometimes is messy,
+specially in
+&lt;a class="reference external" href="http://matt-welsh.blogspot.com.br/2016/01/academics-we-need-to-talk.html"&gt;Computer Science&lt;/a&gt;.
+Toy examples, industry-irrelevant work that people will not use, etc etc.&lt;/p&gt;
+&lt;p&gt;Moreover, the blind review method is somewhat quite future blind.
+Look at the rejection text on
+&lt;a class="reference external" href="http://cacm.acm.org/blogs/blog-cacm/123611-the-nastiness-problem-in-computer-science/fulltext"&gt;a paper written by Bertrand Meyer (inventor of Eiffel language)&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;"Systems that do automatic garbage collection and prevent the designer
+from doing his own memory management are not good systems for
+industrial-strength software engineering."&lt;/p&gt;
+&lt;p&gt;We can never know the author of this pearl.
+Of course we need some skepticism and reviewers have the right to be wrong.
+But on the other hand, well, reviewers should be disclosed at some point.
+At least for the shame of being wrong.
+It does wonders on pride, on learning to learn, on embracing industry change, etc.&lt;/p&gt;
+&lt;p&gt;And that's why I really don't care where it is published.
+There is some great grey literature on blogs like this one from Peter Norvig:&lt;/p&gt;
+&lt;p&gt;Norvig, Peter.
+"On Chomsky and the two cultures of statistical learning." Author Homepage (2011).
+This is &lt;strong&gt;SO&lt;/strong&gt; good.&lt;/p&gt;
+&lt;p&gt;Of course conferences and journals are great.
+Specially conferences.
+Interacting with people is great for science.
+Open real time debate can be even greater.&lt;/p&gt;
+&lt;p&gt;I really don't care HOW the knowledge is shared, too.
+Spoken language is also okay to me.
+For example, I'm so luck I could watch great minds arguing on the ISWC 2012 Big Graph Data Panel&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://videolectures.net/iswc2012_big_graph_data/"&gt;http://videolectures.net/iswc2012_big_graph_data/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Summing up, good grey literature is great.
+Throughout this blog you can check mine.&lt;/p&gt;
+</summary><category term="academia"></category><category term="computer science"></category></entry><entry><title>Statistics and Python for Data Science</title><link href="http://www.icaromedeiros.com.br/statistics-and-python-for-data-science.html" rel="alternate"></link><published>2015-11-30T00:00:00-02:00</published><updated>2015-11-30T00:00:00-02:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2015-11-30:statistics-and-python-for-data-science.html</id><summary type="html">&lt;p&gt;On this post I will briefly discuss two presentations I have made in São Paulo in early November/2015.&lt;/p&gt;
+&lt;div class="section" id="statistics-the-grammar-of-data-science"&gt;
+&lt;h2&gt;Statistics: the Grammar of Data Science&lt;/h2&gt;
+&lt;p&gt;As I decided to become a data scientist (link to some post about how to become a data scientist),
+I've noticed that my statistics background was not good (btw, Computer Science majors should emphasize it more).&lt;/p&gt;
+&lt;p&gt;So I've started to dive into Statistics courses (link to udacity courses), books, and blog posts.
+I have learned a lot and two materials standed up (?) for their graspness (?): Statistics for Hackers and Naked Statistics.&lt;/p&gt;
+&lt;p&gt;Inspired by their approach of giving simple examples to teach complex subjects I thought I could do the same in a conference.
+And based on the audience receptiveness I think I have done this task.&lt;/p&gt;
+&lt;p&gt;The talk goes through misuses, metrics, methods, and meaning (i.e. communication).
+Some (classic) examples like correlation vs. causation and p-hacking are shown in a light way (i.e. memes and cool visualizations).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="python-for-data-science"&gt;
+&lt;h2&gt;Python for Data Science&lt;/h2&gt;
+&lt;p&gt;a&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="statistics"></category><category term="data science"></category><category term="dataviz"></category><category term="python"></category><category term="spark"></category><category term="pandas"></category></entry><entry><title>Linked Data, Big Data and User Science at globo.com</title><link href="http://www.icaromedeiros.com.br/linked-data-big-data-user-science-at-globo-com.html" rel="alternate"></link><published>2015-03-15T00:00:00-03:00</published><updated>2015-03-15T00:00:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2015-03-15:linked-data-big-data-user-science-at-globo-com.html</id><summary type="html">&lt;p itemscope="" itemtype="http://schema.org/EducationEvent"&gt;This week in &lt;span itemprop="location"&gt;Rio&lt;/span&gt; the first &lt;span itemprop="name"&gt;Semantic Computing Meeting&lt;/span&gt; was held at &lt;span itemprop="address"&gt;IGEO (Federal University of Rio de Janeiro)&lt;/span&gt;.
+I was pleased to talk about the work we do at Globo.com regarding Linked Data, Big Data, and User Science.&lt;/p&gt;&lt;p&gt;This &lt;a class="reference external" href="http://compsem.github.io"&gt;meeting&lt;/a&gt; gathered many researchers and industry practicioneers on Semantic Web, Natural Language Processing, Machine Learning, Big Data, Information Retrieval, and related areas.&lt;/p&gt;
+&lt;p&gt;Throughout the day it was possible to get some insights about trending topics on these areas,
+from researchers with great academic background such as &lt;a class="reference external" href="http://www.inf.puc-rio.br/~schwabe"&gt;Daniel Schwabe&lt;/a&gt;
+(professor at &lt;a class="reference external" href="http://www.inf.puc-rio.br"&gt;PUC-Rio&lt;/a&gt;)
+to leading industry researchers like &lt;a class="reference external" href="https://br.linkedin.com/pub/karin-breitman/0/697/602"&gt;Karin Breitman&lt;/a&gt;
+(formerly a professor at PUC-Rio and now chief scientist at &lt;a class="reference external" href="http://www.emc.com/brazilresearch"&gt;EMC Research Brazil&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Moreover, IBM research Brazil was also represented by researchers
+&lt;a class="reference external" href="http://researcher.watson.ibm.com/researcher/view.php?person=br-cicerons"&gt;Cícero dos Santos&lt;/a&gt; and
+&lt;a class="reference external" href="http://researcher.watson.ibm.com/researcher/view.php?person=br-alexrad"&gt;Alexandre Rademaker&lt;/a&gt;.
+After &lt;a class="reference external" href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/"&gt;Watson&lt;/a&gt; development,
+IBM is now intensively trying to create products with related technologies
+in their new business area named as
+&lt;a class="reference external" href="http://www.research.ibm.com/cognitive-computing/"&gt;Cognitive Computing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It is interesting to see that we now have an active community interested on these technologies
+and more and more events are starting to appear,
+such a &lt;a class="reference external" href="http://www.meetup.com/Rio-Big-Data-Meetup/"&gt;Rio Big Data Meetup&lt;/a&gt;.
+Moreover, traditional software development conferences like
+&lt;a class="reference external" href="http://qconsp.com/track/big-data-aplica%C3%A7%C3%B5es-que-aprendem"&gt;QCon São Paulo&lt;/a&gt;
+now have Big Data tracks.&lt;/p&gt;
+&lt;div class="section" id="about-my-talk"&gt;
+&lt;h2&gt;About my talk&lt;/h2&gt;
+&lt;p&gt;My main objective was to deliver a walk-through on how Globo.com
+is interested in getting to know better content, interactions, and users.&lt;/p&gt;
+&lt;p&gt;The first axis (content) is well developed by ontologies,
+a triplestore database &lt;a class="reference external" href="http://virtuoso.openlinksw.com/"&gt;Virtuoso&lt;/a&gt;,
+and a semantic annotation tool that is well documented
+(there are lots of examples on my &lt;a class="reference external" href="http://slideshare.net/icaromedeiros"&gt;slideshare account&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Now we are intensively working on understanding user interaction.
+The pipeline starts on the user browser where we capture events.
+It goes through &lt;a class="reference external" href="http://kafka.apache.org/"&gt;Kafka messaging service&lt;/a&gt; and,
+finally, to &lt;a class="reference external" href="http://hbase.apache.org/"&gt;Hbase persistence&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This lead us to semantic user modeling that works by matching our semantic content classification
+with user interaction.
+Annotations from interacted content are then added to a user profile with a score representing
+how relevant a specific entity (person, place, organization and so on) is to a user.&lt;/p&gt;
+&lt;p&gt;We use &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Spreading_activation"&gt;spreading activation&lt;/a&gt;,
+a semantic network technique, to assign weights to entities in a user model.
+It is a form of simple inference to capture related entities with the ones directly
+annotated in content users interacted with, as depicted below.&lt;/p&gt;
+&lt;div class="align-center" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Spreading Activation" class="align-center" src="images/spreading-activation.png" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Spreading Activation&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Some questions can then be answered by querying a user profile:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What team does the user support?&lt;/li&gt;
+&lt;li&gt;Where does the user lives?&lt;/li&gt;
+&lt;li&gt;Which TV celebrity does the user likes most?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example, this visualization shows my profile in product &lt;a class="reference external" href="http://g1.globo.com"&gt;G1&lt;/a&gt;,
+where the circle size represent entity score and colors represent classes.&lt;/p&gt;
+&lt;div class="align-center" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="My user profile at G1" class="align-center" src="images/user-profile.png" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;My user profile at G1&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Enjoy the slides and feel free to comment.&lt;/p&gt;
+&lt;iframe allowfullscreen="" class="align-center" frameborder="0" height="470px" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/45712263" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" width="615px"&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class="section" id="more-about-the-meeting"&gt;
+&lt;h2&gt;More about the meeting&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a class="reference external" href="http://compsem.github.io"&gt;meeting website&lt;/a&gt; for presenter's contact information.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="talks"></category><category term="linked data"></category><category term="rdf"></category><category term="sparql"></category><category term="semantic web"></category><category term="big data"></category><category term="hadoop"></category><category term="kafka"></category><category term="user modeling"></category><category term="user science"></category><category term="user tracking"></category><category term="social media analytics"></category></entry><entry><title>Dotfiles: What they are, why you need one, where they live, how to do it?</title><link href="http://www.icaromedeiros.com.br/dotfiles-what-they-are-why-you-need-one-where-they-live-how-to-do-it.html" rel="alternate"></link><published>2014-11-23T00:00:00-02:00</published><updated>2014-11-23T00:00:00-02:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2014-11-23:dotfiles-what-they-are-why-you-need-one-where-they-live-how-to-do-it.html</id><summary type="html">&lt;div class="section" id="what-they-are"&gt;
+&lt;h2&gt;What they are&lt;/h2&gt;
+&lt;p&gt;Dotfiles are configuration files that reside in your home (&lt;tt class="docutils literal"&gt;~&lt;/tt&gt;) directory.
+They are hidden files, preceded with a dot (&lt;tt class="docutils literal"&gt;.&lt;/tt&gt;), that's why they're called &lt;strong&gt;dotfiles&lt;/strong&gt; and
+usually have a rc suffix (e.g. &lt;tt class="docutils literal"&gt;.bashrc&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;.vimrc&lt;/tt&gt;).&lt;/p&gt;
+&lt;p&gt;It is usual to share dotfiles and learn from others.
+This is an introductory article about them.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="why-you-need-one"&gt;
+&lt;h2&gt;Why you need one&lt;/h2&gt;
+&lt;p&gt;Setting up a development environment can be stressful and time-consuming.
+Dotfiles are a great way to back up and bootstrap your development environment configuration.&lt;/p&gt;
+&lt;p&gt;Working in a machine without your aliases, shortcuts and vim plugins can be &lt;em&gt;very&lt;/em&gt; unproductive.
+I experiment this every time I need to work in someone's computer, for example.&lt;/p&gt;
+&lt;p&gt;Dotfiles are a great way to get your development enviroment configured fast and easily.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="where-they-live"&gt;
+&lt;h2&gt;Where they live&lt;/h2&gt;
+&lt;p&gt;Dotfiles must be shared.
+Dotfiles are &lt;a class="reference external" href="http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/"&gt;meant to be forked&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As an example, I've discovered dotfiles after a suggestion from my colleague &lt;a class="reference external" href="http://github.com/bmentges"&gt;Bruno Mentges&lt;/a&gt;. He was specially interested in vim configs and, for instance, used &lt;a class="reference external" href="https://github.com/nvie/vimrc"&gt;nvie's vimrc&lt;/a&gt; as inspiration.&lt;/p&gt;
+&lt;p&gt;The first thing I did was to fork his dotfiles.
+By doing this I've discovered some vim configs I was not aware of.
+Forking other people's dtofiles is a great way to learn from others.&lt;/p&gt;
+&lt;p&gt;Other great thing about hosting dotfiles on github is having a safe place to back them up.&lt;/p&gt;
+&lt;p&gt;All my dotfiles are in a &lt;a class="reference external" href="http://github.com/icaromedeiros/dotfiles"&gt;git repository&lt;/a&gt; linked to github and they are simply a link to the cloned github repository:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;~/.vimrc -&amp;gt; ~/workspace/dotfiles/vim/.vimrc
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Every configuration change is synced with the github repository.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-to-do-it"&gt;
+&lt;h2&gt;How to do it&lt;/h2&gt;
+&lt;p&gt;At first, you must create your dotfiles like &lt;tt class="docutils literal"&gt;.zshrc&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;.vimrc&lt;/tt&gt; with your customized settings.&lt;/p&gt;
+&lt;p&gt;It is good to have executable configuration appliers like shell scripts to do the symlink, install needed software, and so on.
+In &lt;a class="reference external" href="http://github.com/icaromedeiros/dotfiles"&gt;my dotfiles&lt;/a&gt;, I created a set of scripts and a Makefile to install my dotfiles and other environment must-haves.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c"&gt;# ...&lt;/span&gt;
+&lt;span class="nf"&gt;zsh&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;
+    @sh zsh/install.sh
+&lt;span class="c"&gt;# ...&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;In &lt;tt class="docutils literal"&gt;zsh/install.sh&lt;/tt&gt; script, oh-my-zsh is installed, the &lt;tt class="docutils literal"&gt;.zshrc&lt;/tt&gt; is symlinked in the home directory and a personalized theme is applied.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="ch"&gt;#!/usr/bin/env bash&lt;/span&gt;
+&lt;span class="nv"&gt;DIR&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt; &lt;span class="nb"&gt;cd&lt;/span&gt; &lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="k"&gt;$(&lt;/span&gt; dirname &lt;span class="s2"&gt;"&lt;/span&gt;&lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;BASH_SOURCE&lt;/span&gt;&lt;span class="p"&gt;[0]&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt; &lt;span class="k"&gt;)&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="nb"&gt;pwd&lt;/span&gt; &lt;span class="k"&gt;)&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;
+
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"Installing oh my zsh..."&lt;/span&gt;
+curl -L http://install.ohmyz.sh &lt;span class="p"&gt;|&lt;/span&gt; sh
+
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"Installing .zshrc"&lt;/span&gt;
+ln -sf &lt;span class="nv"&gt;$DIR&lt;/span&gt;/.zshrc ~/.zshrc
+
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"Installing zsh theme"&lt;/span&gt;
+cp &lt;span class="nv"&gt;$DIR&lt;/span&gt;/icaro.zsh-theme ~/.oh-my-zsh/themes/icaro.zsh-theme
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"Done."&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;A good way to keep dotfiles organized by topic, like &lt;a class="reference external" href="https://github.com/holman/dotfiles"&gt;Zach Holman's dotfiles&lt;/a&gt; or &lt;a class="reference external" href="http://github.com/icaromedeiros/dotfiles"&gt;mine&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Today there are also tools and frameworks for making it faster to configure your environment like &lt;a class="reference external" href="https://github.com/thoughtbot/rcm"&gt;rcm&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/freshshell/fresh"&gt;fresh&lt;/a&gt;, or &lt;a class="reference external" href="https://github.com/philips/ghar"&gt;ghar&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="discover-more"&gt;
+&lt;h2&gt;Discover more&lt;/h2&gt;
+&lt;p&gt;I've written a curated list about &lt;a class="reference external" href="https://dotfiles.zeef.com"&gt;dotfiles at zeef&lt;/a&gt;.
+It includes other introductory articles, and useful links for vim configuration, shell, great dotfiles examples and so on.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="dotfiles"></category><category term="vim"></category><category term="bash"></category><category term="zsh"></category><category term="shell"></category></entry><entry><title>Linked data in use</title><link href="http://www.icaromedeiros.com.br/linked-data-in-use.html" rel="alternate"></link><published>2014-09-13T00:00:00-03:00</published><updated>2014-09-13T00:00:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2014-09-13:linked-data-in-use.html</id><summary type="html">&lt;p itemscope="" itemtype="http://schema.org/BusinessEvent"&gt;Today I have presented a talk in &lt;span itemprop="location"&gt;Salvador&lt;/span&gt; at &lt;span itemprop="name"&gt;Front in Bahia 2014&lt;/span&gt;.&lt;/p&gt;&lt;p&gt;&lt;a class="reference external" href="www.frontinbahia.com.br"&gt;Front in Bahia 2014&lt;/a&gt; is a conference from the well known &lt;strong&gt;Front In&lt;/strong&gt; brand, specialized in front-end development.&lt;/p&gt;
+&lt;div class="align-center" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Linked Data in Use" class="align-center" src="images/icaro-medeiros-front-bahia.jpg" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Linked Data in Use&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;In this talk I walk through Semantic Web initiatives, like RDF and SPARQL, linked data principles, discuss some implementation and adoption issues and talk about semantic annotation in HTML.&lt;/p&gt;
+&lt;p&gt;Semantic annotation using the &lt;a class="reference external" href="http://schema.org"&gt;Schema.org&lt;/a&gt; vocabulary is demonstrated using both HTML 5 Microdata or &lt;a class="reference external" href="json-ld.org"&gt;JSON-LD&lt;/a&gt; input.&lt;/p&gt;
+&lt;div class="align-center" style="width: 483px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Schema.org example" class="align-center" src="images/schema-org-example.png" style="width: 483px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Schema.org example&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;There is a strong highlight in benefits seen in Google search results with Rich Snippets, Actions in Email, and Google Now with real examples like the example below.&lt;/p&gt;
+&lt;div class="align-center" style="width: 759px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Rich snippets in Google SERP" class="align-center" src="images/rich-snippets.png" style="width: 759px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Rich snippets in Google SERP&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Enjoy the slides here and feel free to comment.&lt;/p&gt;
+&lt;iframe class="align-center" frameborder="0" height="470px" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/39052354" width="615px"&gt;&lt;/iframe&gt;</summary><category term="talks"></category><category term="linked data"></category><category term="rdf"></category><category term="sparql"></category><category term="semantic web"></category><category term="schema.org"></category><category term="json-ld"></category><category term="json"></category><category term="json schema"></category></entry><entry><title>I'm back</title><link href="http://www.icaromedeiros.com.br/im-back.html" rel="alternate"></link><published>2014-08-10T00:00:00-03:00</published><updated>2014-08-10T00:00:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2014-08-10:im-back.html</id><summary type="html">&lt;p&gt;Hi folks.&lt;/p&gt;
+&lt;p&gt;I have blogged &lt;a class="reference external" href="http://kirux.wordpress.com"&gt;elsewhere&lt;/a&gt; during my Master's [2008-2009], in portuguese.&lt;/p&gt;
+&lt;p&gt;Now I have this new blog proudly built using &lt;a class="reference external" href="http://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;, &lt;a class="reference external" href="http://python.org"&gt;Python&lt;/a&gt;, &lt;a class="reference external" href="http://sphinx-doc.org/rest.html"&gt;RestructuredText&lt;/a&gt;, and the &lt;em&gt;awesome ultimate blogging deploy system&lt;/em&gt; that &lt;a class="reference external" href="http://pages.github.com"&gt;Github Pages&lt;/a&gt; offers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A few words about blogging tools&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some of my not-so-formal requirements for a blogging tool that made me did these choices:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;I don't want emails, social media, or internet connection getting in the way of writing.&lt;/li&gt;
+&lt;li&gt;I don't need a WYSIWYG tool, a &lt;a class="reference external" href="http://www.vim.org"&gt;simple but great text editor&lt;/a&gt; will work.&lt;/li&gt;
+&lt;li&gt;I want static pages and control the HTML output.&lt;/li&gt;
+&lt;li&gt;I want a smooth deploy.&lt;/li&gt;
+&lt;li&gt;I want to import my old posts nicely.&lt;/li&gt;
+&lt;li&gt;I want i18n (i.e. write both in &lt;cite&gt;en&lt;/cite&gt; and &lt;cite&gt;pt-br&lt;/cite&gt;).&lt;/li&gt;
+&lt;li&gt;I want to write semantic annotations in my posts (using Microdata and &lt;a class="reference external" href="http://schema.org"&gt;schema.org&lt;/a&gt; easily).&lt;/li&gt;
+&lt;li&gt;I want my blog to be responsive, working nicely in mobile devices.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://wordpress.org"&gt;Wordpress&lt;/a&gt; is enough for most people, but basically fails in items 1, 2, 3.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://jekyllrb.com/"&gt;Jekyll&lt;/a&gt;/&lt;a class="reference external" href="http://octopress.org/"&gt;Octopress&lt;/a&gt; seemed  programmer-friendly from the start, but Python is a low entry barrier for me than Ruby, specially for implementing microdata semantic annotation (item 7), as there is a &lt;a class="reference external" href="https://github.com/noirbizarre/pelican-microdata"&gt;plugin&lt;/a&gt; already.&lt;/p&gt;
+&lt;p&gt;Speaking of microdata, I just &lt;a class="reference external" href="http://github.com/icaromedeiros/pelican-microdata"&gt;improved pelican-microdata&lt;/a&gt; a little.&lt;/p&gt;
+&lt;p&gt;PS: In fact, in item 6, it was a little bit frustrating the difficult of configuring &lt;a class="reference external" href="https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites"&gt;i18n subsites&lt;/a&gt; plugin.
+I just gave up and just used intra-article translations.&lt;/p&gt;
+</summary><category term="blogging"></category><category term="python"></category><category term="pelican"></category></entry><entry><title>Master thesis</title><link href="http://www.icaromedeiros.com.br/master-thesis.html" rel="alternate"></link><published>2009-09-23T15:27:00-03:00</published><updated>2009-09-23T15:27:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2009-09-23:master-thesis.html</id><summary type="html">&lt;p&gt;Bom, o assunto da dissertação: &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Folksonomy"&gt;Folksonomias&lt;/a&gt; e Sugestão de tags.&lt;/p&gt;
+&lt;p&gt;Construí um sistema que extraiu dados do Delicious e depois usei técnicas de Information Retrieval, Machine Learning e outras coisas para sugerir automaticamente tags para uma página Web.&lt;/p&gt;
+&lt;p&gt;Usei como base da sugestão de tags pra páginas Web o conteúdo textual, páginas vizinhas (inbound pages) e informação do WordNet e ontologias.&lt;/p&gt;
+&lt;p&gt;No final faço uma comparação entre as tags que sugeri e as tags do Delicious pra dar uma medida quantitativa do quanto o sistema é bom e uma análise do comportamento do usuário (p. ex. que tipo de tags o sistema não consegue sugerir: "semweb" e "webdev").&lt;/p&gt;
+&lt;div class="align-center" style="width: 594px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Nuvem de tags" class="align-center" src="images/tagcloud1.gif" style="width: 594px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Nuvem de tags&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;O resultado disso pode ser visto nos slides abaixo:&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe allowfullscreen="" frameborder="0" height="486" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/4865492" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" width="597"&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/icaromedeiros/tag-suggestion-using-mu" target="_blank" title="Tag Suggestion using Multiple Sources of Knowledge"&gt;Tag Suggestion using Multiple Sources of Knowledge&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/icaromedeiros" target="_blank"&gt;Ícaro Medeiros&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+&lt;/center&gt;</summary><category term="folksonomy"></category><category term="information retrieval"></category><category term="machine learning"></category><category term="social tagging"></category><category term="tag suggestion"></category><category term="tagging"></category></entry><entry><title>Microformatos</title><link href="http://www.icaromedeiros.com.br/microformatos.html" rel="alternate"></link><published>2009-09-03T02:52:00-03:00</published><updated>2009-09-03T02:52:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2009-09-03:microformatos.html</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://microformats.org/"&gt;Microformatos&lt;/a&gt; são conjuntos de formatos abertos usados para aumentar a capacidade semântica do HTML, adicionando metadados sobre contatos, feeds, eventos, etc.&lt;/p&gt;
+&lt;div class="align-center" style="width: 292px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Microformatos" class="align-center" src="images/microformats-logo.png" style="width: 292px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;/div&gt;
+&lt;p&gt;Basicamente são usados em atributos (X)HTML como &lt;tt class="docutils literal"&gt;class&lt;/tt&gt; e &lt;tt class="docutils literal"&gt;rel&lt;/tt&gt;.&lt;/p&gt;
+&lt;p&gt;Por exemplo, pode-se dizer que:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;O avião Air France 447 caiu nas coordenadas
+&lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;span&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;"geo"&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+ &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;span&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;"latitude"&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;48.15&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;span&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;,
+ &lt;span class="p"&gt;&amp;lt;&lt;/span&gt;&lt;span class="nt"&gt;span&lt;/span&gt; &lt;span class="na"&gt;class&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;"longitude"&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;-16.2342&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;span&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="p"&gt;&amp;lt;/&lt;/span&gt;&lt;span class="nt"&gt;span&lt;/span&gt;&lt;span class="p"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Essa informação é lida por browsers, ferramentas de busca e outros sistemas que conseguem "entender" que aqueles dados são referentes a coordenadas geográficas.&lt;/p&gt;
+&lt;p&gt;Isso permite tarefas como:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Indexar e recuperar consultas baseadas em coordenadas geográficas (num sistema de busca)&lt;/li&gt;
+&lt;li&gt;Encontrar no mapa essas coordenadas oferecendo uma informação contextual que o site original pode não oferecer&lt;/li&gt;
+&lt;li&gt;Exportar a informação para um dispositivo GPS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uma grande aplicação recentemente anunciada que usa Microformatos é o &lt;a class="reference external" href="https://support.google.com/webmasters/answer/99170?hl=en"&gt;Google Rich Snippets&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Snippets são aqueles resumos da página (geralmente contextualizados com a consulta) que aparecem nos resultados do Google abaixo dos links.&lt;/p&gt;
+&lt;p&gt;Rich Snippets são uma tentativa do Google de mostrar algo a mais que apenas o conTEXTO da sua consulta, e se valer de dados estruturados da página para mostrar por exemplo reviews e notas para produtos e serviços pesquisados.&lt;/p&gt;
+&lt;div class="align-center" style="width: 759px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Rich Snippets na página de resultados do Google" class="align-center" src="images/rich-snippets.png" style="width: 759px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Rich Snippets na página de resultados do Google&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Páginas com snippets ricos tem maiores possibilidades de serem acesssadas, segundo experimentos deles.&lt;/p&gt;
+&lt;p&gt;Mas, para que as páginas apareçam com esses resumos melhorados, os webmasters devem incluir anotações em microformatos (ou &lt;a class="reference external" href="http://rdfa.info/"&gt;RDFa&lt;/a&gt;) em suas páginas.&lt;/p&gt;
+&lt;p&gt;Alguns exemplos de microformatos:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://microformats.org/wiki/hatom"&gt;hAtom&lt;/a&gt; - para marcação de feeds Atom&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://microformats.org/wiki/hcalendar"&gt;hCalendar&lt;/a&gt; - para eventos&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://microformats.org/wiki/hcard"&gt;hCard&lt;/a&gt; - para informação de contatos, incluindo endereço, localização geográfica, etc.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://microformats.org/wiki/hproduct"&gt;hProduct&lt;/a&gt; - para informações sobre produtos&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://microformats.org/wiki/hreview"&gt;hReview&lt;/a&gt; - para reviews de livros, filmes, restaurantes, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Saiba mais: &lt;a class="reference external" href="http://microformats.org/"&gt;http://microformats.org/&lt;/a&gt;&lt;/p&gt;
+</summary><category term="microformats"></category><category term="rdfa"></category><category term="semantic web"></category><category term="linked data"></category></entry><entry><title>4 anos de Debian Festival</title><link href="http://www.icaromedeiros.com.br/4-anos-de-debian-festival.html" rel="alternate"></link><published>2009-08-20T16:51:00-03:00</published><updated>2009-08-20T16:51:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2009-08-20:4-anos-de-debian-festival.html</id><summary type="html">&lt;p&gt;Falando do evento que ajudei a criar e organizar em Maceió cuja quarta edição aconteceu essa semana:
+O Debian Festival 4.0.&lt;/p&gt;
+&lt;p&gt;Tudo começou quando a PRIMEIRA caravana de Alagoas foi pro Encontro Nacional de Estudantes de Computação (&lt;a class="reference external" href="http://wiki.enec.org.br/ENECOMP2006"&gt;ENECOMP 2006&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Voltando do evento conversávamos sobre a falta de eventos em Maceió sobre Informática e TI no estado.&lt;/p&gt;
+&lt;p&gt;Com o aniversário do Debian próximo (&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Debian"&gt;16 de agosto&lt;/a&gt;), resolvemos criar o PRIMEIRO evento pra comemorar isso e falar sobre Software Livre no estado.&lt;/p&gt;
+&lt;div class="align-center" style="width: 490px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Debian Festival 2 e o bolo com confeitos" class="align-center" src="images/df2.jpg" style="width: 490px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Debian Festival 2 e o bolo com confeitos&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Apesar do pouco tempo de organização e da correria apareceram algumas figuras do Software Livre alagoano como o &lt;a class="reference external" href="http://softwarelivre.org/bardo"&gt;Cárlisson&lt;/a&gt;,
+que nos confirmaram o pioneirismo do evento.&lt;/p&gt;
+&lt;p&gt;Depois apareceram eventos destinados a Linux e SL.&lt;/p&gt;
+&lt;p&gt;Não escrevi isso dizendo que a mola propulsora desses eventos que apareceram foi o nosso.&lt;/p&gt;
+&lt;p&gt;Mas já dá pra ficar feliz em saber que ajudei a criar e &lt;strong&gt;batizei&lt;/strong&gt; o evento, disseminando a cultura livre no estado, quando apenas existiam listas de emails esparsas e improdutivas.&lt;/p&gt;
+&lt;div class="align-center" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="O bolo bonitão do Debian Festival 3" class="align-center" src="images/df3.jpg" style="width: 600px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;O bolo bonitão do Debian Festival 3&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;O evento aconteceu anualmente, sempre no meio de agosto e comemorando o aniversário do Debian com os bolos legais que ilustram o post!&lt;/p&gt;
+&lt;p&gt;Só queria agradecer aos que fizeram parte (como organização ou palestrantes) do
+evento como o Vicente, Marco, Bruno, Mário, Williamson, Natália, Hélio,
+Ellison, Wendell, Pretto, Felipe Wally, Cheops, Evellyn, Diogo Dutra e
+galera de Arapiraca e aos que esqueci de mencionar.&lt;/p&gt;
+&lt;p&gt;Agradeço também aos que participaram e deram valor ao evento, discutiram, aprenderam e praticaram Software Livre.&lt;/p&gt;
+&lt;div class="align-center" style="width: 1944px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="O bolo que eu não comi, mas tava com uma cara boa" class="align-center" src="images/df4.jpg" style="width: 1944px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;O bolo que eu não comi, mas tava com uma cara boa&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;O que fica dos eventos é realmente essa interação e as histórias da galera.
+E mesmo com o "bolo" do pessoal estudante e profissional de computação às vezes, valeu tudo a pena.&lt;/p&gt;
+&lt;div class="align-center" style="width: 500px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Marco com a camisa da Paris Hilton (Debian Festival 2.0)" class="align-center" src="images/df2_paris1.jpg" style="width: 500px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Marco com a camisa da Paris Hilton (Debian Festival 2.0)&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="debian"></category><category term="free software"></category><category term="linux"></category><category term="alagoas"></category></entry><entry><title>RSS e Twitter no mesmo (ciber)espaço</title><link href="http://www.icaromedeiros.com.br/rss-e-twitter-no-mesmo-ciberespaco.html" rel="alternate"></link><published>2009-05-12T11:15:00-03:00</published><updated>2009-05-12T11:15:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2009-05-12:rss-e-twitter-no-mesmo-ciberespaco.html</id><summary type="html">&lt;p&gt;Depois de uma semana usando o Twitter, vendo a quantidade (e a velocidade!) de links sugeridos pra lá e pra cá: Será que o RSS vai morrer desse jeito?&lt;/p&gt;
+&lt;p&gt;Semana passada, no Twitter do &lt;a class="reference external" href="http://twitter.com/novaspivack"&gt;Nova Spivack&lt;/a&gt;, vi que ele discordava &lt;a class="reference external" href="http://www.techcrunchit.com/2009/05/05/rest-in-peace-rss/"&gt;desse artigo do TechCrunch&lt;/a&gt;, que diz simplesmente que o RSS morreu com ferramentas como o Twitter, que fazem "gerenciamento de conteúdo em tempo real".&lt;/p&gt;
+&lt;p&gt;O RSS foi uma grande (r)evolução, já que antes dele nós tinhamos que ir aos sites pra ver se haviam atualizações.
+Assim, temos uma maneira de organizar o conteúdo que lemos da Web e estamos sempre atualizados quando nossos sites/blogs preferidos tem novidades.&lt;/p&gt;
+&lt;p&gt;Uma das coisas que &lt;a class="reference external" href="http://www.techcrunchit.com/2009/05/05/rest-in-peace-rss/"&gt;o artigo&lt;/a&gt; aponta como motivo para um enfraquecimento do RSS é que não há como acompanhar todas as discussões sobre um assunto via RSS e que em sites como Twitter e Facebook passamos do estágio de blogosfera (com RSS) para uma comentosfera.&lt;/p&gt;
+&lt;p&gt;Eu até concordo que os &lt;strong&gt;agregadores&lt;/strong&gt; RSS tenham enfraquecido com o Twitter já que os blogs tem contas nele e compartilham os novos posts com tuitadas (embora quando isso é feito automaticamente, por debaixo
+dos panos, tá lá o RSS).&lt;/p&gt;
+&lt;p&gt;Além disso (talvez por praticidade) donos de blogs cada vez mais compartilham links no Twitter, coisas que poderiam ter virado posts de seus sites.&lt;/p&gt;
+&lt;p&gt;Finalmente, há aquelas páginas boas esporádicas de um site que nunca entraria nos seus feeds RSS, mas que dessa vez tinha algo interessante e um amigo recomendou via Twitter.&lt;/p&gt;
+&lt;p&gt;Os agregadores RSS devem continuar como ferramenta mais estáveis, onde você sabe que vai ter coisas úteis, sem esperar que alguém poste no Twitter ou esperar que os donos dos sites entrem também nessas &lt;a class="reference external" href="http://www.twine.com/item/128lryv9z-46/is-the-stream-the-next-new-metaphor"&gt;ferramentas stream-like&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Além do que, se você postar num blog isso fica lá por muito tempo, pras pessoas verem, comentarem, e uma tuitada some do mapa se vc não a acompanhou em tempo real.&lt;/p&gt;
+&lt;p&gt;Acho que o Twitter nesse caso de compartilhamento de URLs serve eventualmente pra recomendações de sites bons e alguma discussão sobre "hot trends", mas não acabará com o RSS.&lt;/p&gt;
+&lt;p&gt;Finalmente, a tuitada do &lt;a class="reference external" href="http://novaspivack.typepad.com/"&gt;Nova Spivack&lt;/a&gt; que falei no começo dizia: "RSS is open and decentralized. Twitter is proprietary and centralized,and often broken.". Agreed.&lt;/p&gt;
+&lt;p&gt;Ainda em tempo, &lt;a class="reference external" href="http://twitter.com/icaromedeiros"&gt;sigam-me no Twiiter&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="rss"></category><category term="trends"></category><category term="twitter"></category><category term="web 2.0"></category></entry><entry><title>Wolfram Alpha - Você pergunta, a Web responde!?</title><link href="http://www.icaromedeiros.com.br/wolfram-alpha-voce-pergunta-a-web-responde.html" rel="alternate"></link><published>2009-05-06T23:35:00-03:00</published><updated>2009-05-06T23:35:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2009-05-06:wolfram-alpha-voce-pergunta-a-web-responde.html</id><summary type="html">&lt;p&gt;Depois dos fracassos de Cuil e Wikia, mais um Google Killer wannabe?
+Acho que dessa vez não.&lt;/p&gt;
+&lt;p&gt;O hype sobre a ferramenta vem crescendo muito, até porque ela vem com o respaldo de um cientista conhecido, Stephen Wolfram, físico, matemático e empresário conhecido por ser autor da ferramenta Mathematica e por trabalhos em áreas como autômatos celulares.&lt;/p&gt;
+&lt;p&gt;Caros amigos, apresento-lhes o &lt;a class="reference external" href="http://www.wolframalpha.com/"&gt;Wolfram Alpha&lt;/a&gt;.
+O jornal &lt;a class="reference external" href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/an-invention-that-could-change-the-internet-for-ever-1678109.html"&gt;The Independent diz que a ferramenta mudará a Internet pra sempre&lt;/a&gt;.
+O sistema deve ser lançado ainda esse mês.&lt;/p&gt;
+&lt;p&gt;Segundo o autor, a ferramenta é uma "máquina de conhecimento computacional". (...) . Hein?&lt;/p&gt;
+&lt;p&gt;Bom, diferente do Google, que retorna um bocado de links para possíveis respostas às perguntas dos usuários, o Wolfram Alpha tenta entender a pergunta e retornar uma resposta através de uma base de conhecimento criada para as mais diversas áreas, contendo terabytes de informação avaliada por especialistas e algoritmos para modelar e raciocinar sobre esse conhecimento.&lt;/p&gt;
+&lt;p&gt;O sistema computa as respostas! Calcula!
+Não é um amontado de pares pergunta-resposta nem busca respostas numa base de fatos.&lt;/p&gt;
+&lt;p&gt;Ao invés disso o sistema é capaz de entender e retornar respostas para alguns tipos de pergunta.
+Além das respostas há maneiras de explorar conhecimento/dados relacionados e efetuar comparações já que a resposta pode incluir diagramas, gráficos e links para questões relacionadas.&lt;/p&gt;
+&lt;p&gt;Por exemplo, uma consulta sobre a temperatura em Tóquio no ano de 2008 mostrará médias de temperatura, umidade e velocidade do vento, além de um gráfico com as temperaturas médias, mínimos e máximos ao longo do ano.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.google.pt/search?q=weather+tokyo+2008"&gt;Diferente do Google&lt;/a&gt;, que ia mandar você ver o site da agência de meteorologia do Japão. No Wolfram Alpha é como perguntar a um expert na área como naquela frase: "pergunte a quem realmente entende do assunto".&lt;/p&gt;
+&lt;div class="align-center" style="width: 577px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Consulta sobre temperatura em Tóquio no ano de 2008" class="align-center" src="images/weather.png" style="width: 577px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Consulta sobre temperatura em Tóquio no ano de 2008&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Como funciona? Além da interface de processamente de linguagem natural para as perguntas, há um banco de dados com modelos formais de campos como a Física, onde leis, propriedades de elementos e relacionamento
+entre eles estão armazenados de maneira computável.&lt;/p&gt;
+&lt;p&gt;O sistema é capaz de resolver problemas de cálculo, séries e do genoma humano!
+Além de ciência domínios como tecnologia, temperatura, negócios e música estão incluídos.&lt;/p&gt;
+&lt;p&gt;Outra diferença em relação ao Google: O Wolfram Alpha pode responder perguntas que ainda não foram feitas (e portanto não existem nos índices de páginas Web) desde que os cálculos necessários para respondê-las sejam conhecidos e estejam no seu modelo de mundo real.&lt;/p&gt;
+&lt;p&gt;Hoje em dia ferramentas como o Google funcionam semelhante a uma grande tabuada de multiplicação, com referências a vários resultados de produtos.&lt;/p&gt;
+&lt;p&gt;Se o cálculo que vc quer saber está na tabuada, ele retorna.
+Já o Wolfram Alpha tem o algoritmo e pode calcular essa resposta.&lt;/p&gt;
+&lt;p&gt;Um exemplo interessante é a consulta "O sobrinho do neto da tia do meu tio".
+No Google não dá em nada, mas no Wolfram Alpha resulta numa árvore genealógica e em informações como a relação de sangue (1/128).&lt;/p&gt;
+&lt;div class="align-center" style="width: 573px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="O sobrinho do neto da tia do meu tio" class="align-center" src="images/genealogy.png" style="width: 573px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;O sobrinho do neto da tia do meu tio&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Outras características: por enquanto isso só será disponível em inglês, haverá uma referência às fontes consultadas para as respostas, quando houver controvérsia na resposta isso será declarado e o sistema também mostrará resultados de sistemas como Google, Wikipédia e Yahoo.&lt;/p&gt;
+&lt;p&gt;Algumas questões no ar: Quão extensível é isso? Será difícil adicionar e manter o conhecimento? Haverão erros? Quão frequentes serão esses erros? Que formas de conhecimento o sistema poderá manipular no futuro?&lt;/p&gt;
+&lt;p&gt;Bom, eu tô pagando pra ver! Já me inscrevi pra receber notícias de lançamento e pra testar a ferramenta antes disso, ainda sem resposta.
+Vamos ver o que as próximas semanas aguardam e quando o sistema for lançado eu posto de novo com minhas impressões e o que sair de notícia a respeito.&lt;/p&gt;
+&lt;p&gt;Finalmente, destronar o Google é ilusão, até porque esse serviço será uma coisa adicional e paralela a ele que não acaba com a nossa necessidade de usá-lo.&lt;/p&gt;
+&lt;p&gt;Você não vai usar o Wolfram Alpha para ver postsde blog sobre um assunto ou escolher onde passar férias.&lt;/p&gt;
+&lt;p&gt;Assim, acho que no máximo esse sistema poderá ganhar a mesma importância do atual oráculo da Web. Mas acho que para algumas áreas como a academia essa base deles será um grande revolução, desde que o sistema corresponda as expectativas.&lt;/p&gt;
+&lt;p&gt;E se o fizer, como falaram &lt;a class="reference external" href="http://blogs.zdnet.com/BTL/?p=14108"&gt;nesse post&lt;/a&gt;, o sistema provavelmente será adquirido pelo próprio Google ou por alguma empresa (Microsoft?) querendo acabar com o Google.&lt;/p&gt;
+&lt;p&gt;Só podiam mudar esse nome né? Muito extenso e feio, diferente de coisas pegajosas como Google e Yahoo!&lt;/p&gt;
+&lt;p&gt;Termino o post com uma declaração romântica de Stephen Wolfram sobre o sistema:&lt;/p&gt;
+&lt;p&gt;“What we’re trying to do is take all the things that can be computed about the world… and try and package it to the point where we can just walk up to a web site and have it deliver the knowledge we’d like to have. Like interacting with an expert it will understand what you are talking about, do the computation and present to you results.”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Mais informações&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Trecho de uma apresentação do sistema na Harvard:&lt;/p&gt;
+&lt;div align="center" class="youtube"&gt;&lt;iframe frameborder="0" height="315" src="https://www.youtube.com/embed/hYhLsQPHNas" width="560"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Ótimo e completo artigo do Nova Spivack no Twine: &lt;a class="reference external" href="http://www.twine.com/item/122mz8lz9-4c/wolfram-alpha-is-coming-and-it-could-be-as-important-as-google"&gt;Wolfram Alpha is Coming -- and It Could be as Important as Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://news.cnet.com/2300-17939_3-10000825-1.html?tag=mncol"&gt;Mais screenshots do Wolfram Alpha&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.readwriteweb.com/archives/wolframalpha_our_first_impressions.php"&gt;Our First Impressions (ReadWriteWeb)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://blogs.zdnet.com/BTL/?p=14108"&gt;A new paradigm for using computers and the web (ZDNET)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://education.zdnet.com/?p=2231&amp;amp;tag=rbxccnbzd1"&gt;Brilliant tool, Google killer, or lots of hype? (ZDNET)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://googlediscovery.com/2009/03/09/wolfram-alpha-nova-ferramenta-que-promete-desbancar-google/"&gt;Nova ferramenta que promete desbancar Google (Google Discovery)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://updateordie.com/updates/tecnologia/2009/05/wolfram-google-killer/"&gt;Wolfram, Google killer?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="web search"></category><category term="google"></category><category term="knowledge reasoning"></category><category term="knowledge representation"></category><category term="wolfram"></category><category term="wolfram alpha"></category></entry><entry><title>E se os filósofos fossem programadores?</title><link href="http://www.icaromedeiros.com.br/e-se-os-filosofos-fossem-programadores.html" rel="alternate"></link><published>2009-04-21T17:46:00-03:00</published><updated>2009-04-21T17:46:00-03:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2009-04-21:e-se-os-filosofos-fossem-programadores.html</id><summary type="html">&lt;p&gt;Traduzido e adaptado de &lt;a class="reference external" href="http://developeronline.blogspot.com/2009/04/if-philosophers-were-programmers.html"&gt;If philosophers were programmers&lt;/a&gt; em 2009, revisado em 2014, quando do lançamento da versão nova do blog.&lt;/p&gt;
+&lt;p&gt;Num certo aspecto, o código reflete como o programador percebe o problema e sua solução, talvez simulando interações presentes no mundo real.&lt;/p&gt;
+&lt;p&gt;Antes de programar, os desenvolvedores gastam algum tempo pensando no problema, identificando propriedades importantes e suas conexões subjacentes.&lt;/p&gt;
+&lt;p&gt;Analogamente, filósofos estão constantemente tentando identificar as mais importantes propriedades de questões como &lt;a class="reference external" href="http://pt.wikipedia.org/wiki/Life,_the_Universe_and_Everything"&gt;A Vida, O Universo e Tudo o Mais&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Assim, podemos fazer um mapeamento entre as idéias de linguagens de programação e as idéias que os filósofos tiveram ao longo dos séculos.&lt;/p&gt;
+&lt;p&gt;É perfeitamente razoável considerar linguagens de programação como diferentes filosofias em um mundo virtual, onde entidades existem e interajem entre si.&lt;/p&gt;
+&lt;p&gt;Até as perguntas fundamentais podem sofrer uma profunda transformação, por exemplo, "O que é auto-consciência?" pode ser refraseada como "O que é &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Reflection_(computer_science)"&gt;reflexão&lt;/a&gt;?".&lt;/p&gt;
+&lt;p&gt;E se os filosófos fossem programadores? Que linguagens eles usariam?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sócrates: O programador Assembly&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sócrates foi um dos fundadores da filosofia mas não é aí que as semelhanças acabam.&lt;/p&gt;
+&lt;p&gt;Ele inventou um método para ganhar qualquer debate, a dialética: Ele ficava fazendo perguntas até que seu adversário caísse em contradição.&lt;/p&gt;
+&lt;p&gt;Se alguém dizia que "moralidade é importante", ele perguntava: "Como você define moralidade?".&lt;/p&gt;
+&lt;div class="align-center" style="width: 440px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Sócrates" class="align-center" src="images/socrates.jpg" style="width: 440px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Sócrates&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;De modo similar, tudo em Assembly requer uma questão, não há nada pré-assumido e tudo tem de ser sucinto para ter sentido.
+Se você é um programador trabalhando com Sócrates e o envia algo como &lt;tt class="docutils literal"&gt;var x = null&lt;/tt&gt;,  seu parceiro vai começar perguntando "O que é &lt;tt class="docutils literal"&gt;var&lt;/tt&gt;?".&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aristóteles: O programador C influente&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aristóteles teve um grande impacto na filosofia Ocidental, fundando muitas áreas científicas, como Física, Biologia e até a Lógica.&lt;/p&gt;
+&lt;p&gt;Ele examinou as entidades e a essência real de tudo, em constraste as abstrações de Platão.
+Sua filosofia é orientada a uma "média dourada" como a chave para contra-balançar tudo e alcançar moralidade ou entender a vida.&lt;/p&gt;
+&lt;div class="align-center" style="width: 300px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Hello Word!" class="align-center" src="images/c_baby.jpg" style="width: 300px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Hello Word!&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;A linguagem de programação C foi muito influente no projeto das filosofias das linguagens, principalmente no nível sintático.&lt;/p&gt;
+&lt;p&gt;Além disso, quando surgiu, foi considerada uma "média dourada" entre as linguagens de alto nível e a linguagem Assembly, combinando a capacidade de escrever código independente de plataforma combinado com o poder de acesso de baixo nível.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Platão: O evangelizador do C++&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Platão é uma grande figura da Filosofia, estudante de Sócrates e professor de Aristóteles.&lt;/p&gt;
+&lt;p&gt;Então por que C++ vem depois de C? Platão é famoso pelas referências a versões arquetípicas das coisas a nossa
+volta.&lt;/p&gt;
+&lt;p&gt;Então, uma xícara na sua mesa é uma sombra de um arquétipo similar no mundo das idéias.
+Em programação, diremos que é uma instância da classe Xícara.&lt;/p&gt;
+&lt;p&gt;Similarmente, C++, é uma extensão de C, e tenta capturar a idéia de formas dando aos desenvolvedores a capacidade de abstrair o problema.&lt;/p&gt;
+&lt;p&gt;Mas por que Platão não programaria em Java? Ele poderia, mas ele não estava tão certo que símbolos poderiam representar suas formas perfeitamente, e analogamente, C++ continua sendo um superconjunto de C, sendo compatível com a sintaxe de C.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estóicos: A comunidade feliz de Perl&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O estoicismo tem um impacto silencioso na cultura global e não há ninguém diretamente por trás dessa escola de pensamento, ela foi descrita por conquistas intelectuais colaborativas.&lt;/p&gt;
+&lt;p&gt;Os estóicos negam qualquer coisa imaterial e tenta explicar o mundo por uma lógica.
+Eles rejeitam tudo que é ideal e se concentram na moralidade, apreciando a liberdade da introspecção para alcançar a verdadeira sabedoria.&lt;/p&gt;
+&lt;p&gt;As pessoas devem ser irmãs, sem distinções e devem contribuir para uma sociedade de amizade, paz e amor.&lt;/p&gt;
+&lt;div class="align-center" style="width: 347px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Mensagem hippie usando expressões regulares!" class="align-center" src="images/perl2.jpg" style="width: 347px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Mensagem hippie usando expressões regulares!&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;O Perl é uma linguagem livre de forma.
+A frase mais comum no mundo Perl é "existe mais de uma maneira de fazer isso".&lt;/p&gt;
+&lt;p&gt;A filosofia por trás de Perl rejeita restrições sintáticas, dando a liberdade aos programadores de codificar ao seu estilo, mas ao mesmo tempo encoraja o compartilhamento e a contribuição para a comunidade.&lt;/p&gt;
+&lt;p&gt;O poder de Perl se deve em grande parte a existência da CPAN, o arquivo de módulos (bibliotecas) e software alegremente compartilhados por programadores ao redor do mundo.&lt;/p&gt;
+&lt;p&gt;A influência da linguagem do mundo da programação tem sido silenciosa, podendo-se citar a influência para
+linguagens de scripting, tipagem dinâmica e programação funcional.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;René Descartes: O verdadeiro guru Java&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O cerne da filosofia de Descartes é o conceito de cogito (ego intelectual).
+Ele acreditava que a dúvida é a prova da existência, e o cogito é a causa da dúvida, o que nos leva a famosa frase "cogito ergo sum" (I think therefore I am).&lt;/p&gt;
+&lt;p&gt;O cogito nada mais é do que outro processo que fazemos, mas na verdade comanda tudo que nós fazemos.
+Então, o que queremos, imaginamos ou sentimos é acessível apenas através dele.O pensar seria um método da classe abstrata &lt;tt class="docutils literal"&gt;Thinker&lt;/tt&gt;, talvez?&lt;/p&gt;
+&lt;div class="align-center" style="width: 431px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Descartes extends Thinker" class="align-center" src="images/descartes.jpg" style="width: 431px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Descartes extends Thinker&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Descartes também é responsável por outra revolução no campo da filosofia.
+A partir do seu trabalho, os filósofos passam a evitar abstrações confusas e estabelecer uma forma sucinta, praticamente geométrica, já que ele apresentava suas idéias na forma de teoremas.&lt;/p&gt;
+&lt;p&gt;Descartes seria um perfeito guru Java.
+Java é uma linguagem fortemente tipada, na qual tudo deve ter um tipo (ou compartilhar uma forma) antes de ser usada.&lt;/p&gt;
+&lt;p&gt;Isso combina perfeitamente com os esforços de Descartes de ser sempre exato sobre o que estava falando. O cogito é de fato uma nova maneira de pensar as formas de Platão, com uma ligeira variação na qual ideias existem porque nós pensamos sobre elas e não em outro universo.&lt;/p&gt;
+&lt;p&gt;A respeito disso, a filosofia é puramente orientada a objeto, dado que as solução em que chegamos são produtos diretos dos nossos intelectos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Immanuel Kant: O primeiro programador Python&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kant encontrou uma forma de combinar duas metodologias opositoras da filosofia: o logicismo de Descartes e o empirismo quando disse: "Que tal os dois?".&lt;/p&gt;
+&lt;p&gt;Kant investigou como os humanos raciocinam, alegando que a experiência oferece a verdade, mas uma verdade que já foi filtrada por um julgamento intelectual lógico (a priori).&lt;/p&gt;
+&lt;p&gt;No final da vida ele examinou a estética, e a teoria tentando explicar a maneira pela qual percebemos a beleza.&lt;/p&gt;
+&lt;p&gt;Kant foi uma personalidade extremamente concisa, sendo obcecado por exatidão e organização.
+Similarmente, Python é uma linguagem que tenta combinar diferentes soluções e promove uma nova. Como a linguagem aceita diferentes paradgimas, de orientação a objeto a programação baseada em contratos.&lt;/p&gt;
+&lt;p&gt;Os programadores Python rejeitam o formato livre de linguagens como Perl, e mesmo emprestando algumas características dela, eles enfatizam o código simples e explícito.&lt;/p&gt;
+&lt;p&gt;Python se tornou tão "obcecado" por organização que impõe endentação de código e delimitadores de blocos de código aos seus usuários.&lt;/p&gt;
+&lt;p&gt;No "Zen de Python", o primeiro dos 19 mandamentos é "O Belo é melhor que o feio".
+A obsessão de Kant pela beleza e a estética faz dele o primeiro programador Python.&lt;/p&gt;
+&lt;p&gt;O que dizer de outros filósofos e linguagens? O que vocês acham?&lt;/p&gt;
+&lt;p&gt;Traduzido de &lt;a class="reference external" href="http://developeronline.blogspot.com/2009/04/if-philosophers-were-programmers.html"&gt;If philosophers were programmers&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="computer science"></category><category term="philosophy"></category><category term="programming"></category></entry><entry><title>Sugestão de tags</title><link href="http://www.icaromedeiros.com.br/sugestao-de-tags.html" rel="alternate"></link><published>2008-12-04T01:11:00-02:00</published><updated>2008-12-04T01:11:00-02:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2008-12-04:sugestao-de-tags.html</id><summary type="html">&lt;p&gt;Sugestão de tags é a tarefa de ajudar os usuários a etiquetar recursos (ex: &lt;a class="reference external" href="http://delicious.com/"&gt;páginas no del.icio.us&lt;/a&gt;) recomendando tags relevantes.
+A principal estratégia é usar tags já usadas para descrever o mesmo conteúdo ou recursos similares.&lt;/p&gt;
+&lt;p&gt;Como esse é um dos tópicos que eu vou trabalhar &lt;a class="reference external" href="http://dmir.inesc-id.pt/dmir/wiki/index.php?n=Main.FolkPeers"&gt;em Portugal&lt;/a&gt;, resolvi fazer meu trabalho de Recuperação de Informação em cima do assunto (&lt;a class="reference external" href="http://kirux.files.wordpress.com/2008/12/slides.pdf"&gt;Apresentação do projeto aqui&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;O protótipo ainda não tem tanta precisão e sugere tags muito genéricas, mas foi um primeiro passo interessante.&lt;/p&gt;
+&lt;p&gt;Nesse projeto, resolvi usar só o conteúdo textual dos recursos, que nesse caso são artigos da Wikipédia sobre Engenharia de Software, Redes de Computadores e Inteligência Artificial totalizando mais de 6000 artigos.&lt;/p&gt;
+&lt;p&gt;Alguns exemplos:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;`C++`_&lt;/strong&gt; - Programação C Linguagem Software Código&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;`UML`_&lt;/strong&gt; - Software Modelagem Engenharia UML Desenvolvimento&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;`Model Driven Architecture (MDA)`_&lt;/strong&gt; - Software Desenvolvimento
+Programação Modelo Processo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Todo a coleção&lt;/strong&gt;: Software Internet Programação Linguagem Sistema
+Linux Código Computador X Livre Rede Web Windows Dados Redes&lt;/p&gt;
+&lt;p&gt;Uma coisa que poderia ficar melhor era usar recursos similares, agrupar tags, tentar melhorar as fórmulas, etc.&lt;/p&gt;
+</summary><category term="social tagging"></category><category term="tagging"></category><category term="tag suggestion"></category><category term="web"></category></entry><entry><title>Web Semântica e o efeito do Fax</title><link href="http://www.icaromedeiros.com.br/web-semantica-e-o-efeito-do-fax.html" rel="alternate"></link><published>2008-11-13T06:16:00-02:00</published><updated>2008-11-13T06:16:00-02:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2008-11-13:web-semantica-e-o-efeito-do-fax.html</id><summary type="html">&lt;p&gt;Lendo o livro do Peter Mika, &lt;a class="reference external" href="http://www.amazon.com/Social-Networks-Semantic-Web-Beyond/dp/0387710000"&gt;Web Semântica e Redes Sociais&lt;/a&gt;, na parte sobre a adoção da Web semântica, se fala do efeito do Fax, que emperra a adoção em larga escala de RDF e OWL, p. ex.&lt;/p&gt;
+&lt;p&gt;É mais ou menos assim: quando as primeiras máquinas de Fax entraram no mercado, tinham um preço alto e eram inúteis... Por quê?&lt;/p&gt;
+&lt;p&gt;A utilidade delas vêm do fato de serem capazes de se comunicar com outras.
+Assim, seu valor de utilidade só emerge proporcionalmente a quantidade de usuários que adotam a novidade.&lt;/p&gt;
+&lt;p&gt;Isso também acontece com tecnologias semânticas, que prometem um mundo de integração, reuso e inferência em
+dados distribuídos por muitos sítios na Web.&lt;/p&gt;
+&lt;p&gt;E quando é que a Web Semântica será uma tecnologia (1) atrativa, (2) interessante e finalmente (3) indispensável para que haja adoção? Veremos.&lt;/p&gt;
+&lt;p&gt;Um programador não vai ser um &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Early_adopter"&gt;early adopter&lt;/a&gt; (1) de tecnologias semânticas caso o big boss não imponha dizendo que é uma ferramenta interessante (2) pra gerir e apresentar o conhecimento dos empregados sobre o domínio da aplicação.&lt;/p&gt;
+&lt;p&gt;Empresas inovadoras estão na fase (1) - há boas idéias por aí e sítios começando.
+Estes vão fazer gerentes acharem as tecnologias aplicáveis nas empresas (2).&lt;/p&gt;
+&lt;p&gt;Se todas as empresas usam Fax, o problema pode ser financeiro (3).
+Clientes são perdidos porque não se adotou uma tecnologia, empresas podem fechar por não terem entrado no campeonato nas fase (1) ou (2).&lt;/p&gt;
+&lt;p&gt;Hoje em dia, quem não faz absolutamente nada com AJAX, PERDE mercado.
+Quem perder mercado porque não tem um site semantic-aware, adotará a Web 3.0 (3!).&lt;/p&gt;
+&lt;p&gt;O que acontece é: Empresas querem produtividade e talvez só adotem (ou briguem por) uma coisa nova quando o Martin Fowler ou algum guru disser que é bom! Ou quando doer no bolso!&lt;/p&gt;
+&lt;p&gt;Infelizmente, há ainda muitos gaps na infra-estrutura da Web Semântica: API's, ferramentas de autoria de ontologias, integração de bancos de dados legados, etc.&lt;/p&gt;
+&lt;p&gt;Pra mim, &lt;a class="reference external" href="http://www.readwriteweb.com/archives/semantic_web_what_is_the_killer_app.php"&gt;o que falta são as Killer Applications&lt;/a&gt;, que podem surgir a despeito dos gaps.
+Afinal, nenhum guru iria dizer que "redes socias isso, redes sociais aquilo" se não aparecessem Orkut, Wikipédia, YouTube, Flickr, Del.icio.us, etc.&lt;/p&gt;
+</summary><category term="rdf"></category><category term="owl"></category><category term="semantic web"></category><category term="social networks"></category></entry><entry><title>O jogo dos (meta)dados</title><link href="http://www.icaromedeiros.com.br/o-jogo-dos-metadados.html" rel="alternate"></link><published>2008-11-05T21:30:00-02:00</published><updated>2008-11-05T21:30:00-02:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2008-11-05:o-jogo-dos-metadados.html</id><summary type="html">&lt;p&gt;Houve uma discussão sobre a burocracia da Web Semântica num post anterior.
+Não precisa ser tão burocrático!&lt;/p&gt;
+&lt;p&gt;Só assim a Web pode ser semântica em escala.
+Mas para garantir semântica precisamos de algumas estruturas (e ontologia é apenas uma delas, porém, a mais
+completa, formal e bem estudada) para organizar os dados.&lt;/p&gt;
+&lt;p&gt;Duas formas de fazer isso que levam muito em consideração o que a Web 2.0 trouxe, sem precisar editar &lt;a class="reference external" href="http://www.eclipse.org/m2m/atl/usecases/ODMImplementation/img/MuseumOWL.PNG"&gt;OWL&lt;/a&gt; e saber &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Description_logic"&gt;Lógica de Descrição&lt;/a&gt;: folksonomias e Wikis Semânticos.&lt;/p&gt;
+&lt;p&gt;Wikis Semânticos são ambientes de edição Wiki onde atributos como relações entre páginas, suas categorias e hierarquias podem ser descritas "in a Wiki way", facinho como &lt;a class="reference external" href="http://pt.wikipedia.org/w/index.php?title=Web_sem%C3%A2ntica&amp;amp;action=edit"&gt;editar um artigo da Wikipédia&lt;/a&gt;.
+Uma grande feature de um Wiki Semântico são os links tipados.
+É só colocar um rótulo no link, é só dizer o que este link significa.&lt;/p&gt;
+&lt;p&gt;Soa fácil né?
+Pois é!
+Veja aí a figura.
+É do artigo sobre a &lt;a class="reference external" href="http://pt.wikipedia.org/wiki/Semantic_MediaWiki"&gt;extensão semântica&lt;/a&gt; do &lt;a class="reference external" href="http://pt.wikipedia.org/wiki/MediaWiki"&gt;MediaWiki&lt;/a&gt; (software que a Wikipédia usa debaixo dos panos).&lt;/p&gt;
+&lt;div class="align-center" style="width: 417px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Wikis Semânticos" class="align-center" src="images/typed-links1.png" style="width: 417px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Wikis Semânticos&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Um usuário comum quer tarefas fáceis, produzir ontologias não é uma delas.
+Assim, o conhecimento deles precisa ser capturado com interfaces analfabetas como caixinhas de texto para tags.
+Até mesmo tipar links pode ser impeditivo.&lt;/p&gt;
+&lt;p&gt;E agora? Vamos precisar dos "engenheiros de conhecimento" da época dos sistemas especialistas para produzir todas as ontologias? Acho que não.&lt;/p&gt;
+&lt;p&gt;Com estruturas de semântica fraca como folksonomias temos dados capturados de qualquer tipo de usuário.
+Podemos então usar técnicas de estatística, processamento de linguagem natural e análise de redes sociais para a inferência de conhecimento mais formal, que pode servir tanto pra melhorar a própria folksonomia ou para agregar serviços ao site que faz uso do sistema de social tagging.&lt;/p&gt;
+&lt;p&gt;Podemos fazer com que isso convirja para uma ontologia!&lt;/p&gt;
+&lt;p&gt;Além disso, metadados servem para fazer anotação semântica, ou seja, informação numa página que é processada por agentes com conhecimento de ontologias.&lt;/p&gt;
+&lt;p&gt;Por exemplo, usar &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Dublin_Core"&gt;metadados dublin core&lt;/a&gt; para especificar autor, título e outros dados pessoais numa página, de maneira formalizada, é um começo.&lt;/p&gt;
+&lt;p&gt;Finalmente... vamos usar estruturas com semântica formal bem definida como ontologias ou estruturas de semântica leve e depois extrair essas informações?&lt;/p&gt;
+</summary><category term="folksonomy"></category><category term="metadata"></category><category term="semantic wikis"></category><category term="social tagging"></category><category term="wikis"></category><category term="tagging"></category></entry><entry><title>Aprendizagem de Ontologias</title><link href="http://www.icaromedeiros.com.br/aprendizagem-de-ontologias.html" rel="alternate"></link><published>2008-10-31T02:38:00-02:00</published><updated>2008-10-31T02:38:00-02:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2008-10-31:aprendizagem-de-ontologias.html</id><summary type="html">&lt;p&gt;Vai aí um seminário que apresentei mês passado aqui no &lt;a class="reference external" href="http://www.cin.ufpe.br/~in1099/082/"&gt;mestrado&lt;/a&gt;, é uma apresentação sobre Ontology Learning.&lt;/p&gt;
+&lt;p&gt;Aprendizagem de ontologias são um conjunto de processos e técnicas para:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Construir uma ontologia do zero ;&lt;/li&gt;
+&lt;li&gt;Enriquecer, adaptar ou popular ontologias já existentes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe allowfullscreen="" frameborder="0" height="356" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/1158121" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" width="427"&gt;
+&lt;/iframe&gt;
+&lt;div style="margin-bottom:20px"&gt;
+&lt;strong&gt;
+&lt;a href="https://www.slideshare.net/icaromedeiros/slidesontolearning" target="_blank" title="Ontology Learning"&gt;Ontology Learning&lt;/a&gt;
+&lt;/strong&gt; from
+    &lt;strong&gt;
+&lt;a href="http://www.slideshare.net/icaromedeiros" target="_blank"&gt;Ícaro Medeiros&lt;/a&gt;
+&lt;/strong&gt;
+&lt;/div&gt;&lt;p&gt;Isso é feito de maneira semi-automática a partir de dados como texto (principalmente), schemas XML, bancos de dados e até &lt;a class="reference external" href="http://www.icaromedeiros.com.br/a-fantastica-fabrica-de-conhecimento.html"&gt;folksonomias&lt;/a&gt; sobre o domínio a ser formalizado.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Especialistas do domínio escrevem artigos, relatórios técnicos, livros, etc.&lt;/li&gt;
+&lt;li&gt;Isso está representado em texto (é seu corpus).&lt;/li&gt;
+&lt;li&gt;Com a aprendizagem temos uma conceitualização do domínio numa ontologia - seja ela uma hierarquia simples ou uma ontologia com relacionamentos e axiomas.&lt;/li&gt;
+&lt;li&gt;As definições que estão na ontologia representam uma síntese da opinião consensual dos especialistas sobre aquele domínio. Os especialistas ou os usuários da aplicação usando a ontologia podem melhorar a ontologia depois, e esse refinamento ajuda os próprios métodos de aprendizagem. Cria-se então um ciclo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Esse processo é sumarizado na figura abaixo.&lt;/p&gt;
+&lt;div class="align-center" style="width: 781px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Aprendizagem de Ontologias == Reserve Engineering" class="align-center" src="images/reverse.png" style="width: 781px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Aprendizagem de Ontologias == Reserve Engineering&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Aprendizagem de ontologia pode ser visto como uma tarefa de áreas como Extração de Informação e Mineração de Texto.&lt;/p&gt;
+&lt;p&gt;Outros nomes tratam do mesmo assunto com nomes diferentes como
+(Extração | Emergência | Geração | Aquisição |
+Descoberta | População | Enriquecimento) de ontologias, com algumas diferenças bem sutis.&lt;/p&gt;
+&lt;p&gt;Saiba mais:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Ontology_learning"&gt;Ontology Learning - Wikipedia, in English&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://olp.dfki.de/OntoLT/OntoLT.htm"&gt;Ferramenta e plug-in Protége OntoLT&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="machine learning"></category><category term="ontology learning"></category><category term="semantic web"></category><category term="ontologies"></category><category term="linked data"></category><category term="information retrieval"></category></entry><entry><title>A fantástica fábrica de conhecimento</title><link href="http://www.icaromedeiros.com.br/a-fantastica-fabrica-de-conhecimento.html" rel="alternate"></link><published>2008-10-23T14:03:00-02:00</published><updated>2008-10-23T14:03:00-02:00</updated><author><name>Ícaro Medeiros</name></author><id>tag:www.icaromedeiros.com.br,2008-10-23:a-fantastica-fabrica-de-conhecimento.html</id><summary type="html">&lt;p&gt;É só pensar nas primeiras palavras que nos vêm a cabeça sobre o conteúdo de uma página Web e digitar numa caixinha e mandar pro &lt;a class="reference external" href="http://digg.com/"&gt;Digg&lt;/a&gt;, pro &lt;a class="reference external" href="http://delicious.com/"&gt;Del.icio.us&lt;/a&gt;, pro &lt;a class="reference external" href="http://www.flickr.com/"&gt;flickr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Aí se organiza contéudo! Fácil né?!&lt;/p&gt;
+&lt;p&gt;Imagine um supermercado você pode colocar etiquetas em vinhos para classificá-los.&lt;/p&gt;
+&lt;p&gt;Você pode se valer da opinião "etiquetada" de outros consumidores para decidir que marca comprar.
+Você pode enviesar sua opinião pela classificação de amigos e pessoas próximas.&lt;/p&gt;
+&lt;p&gt;Já que a classificação foi útil, você também rotula o vinho consumido, para beneficiar mais pessoas, como aconteceu com você.&lt;/p&gt;
+&lt;p&gt;Outra coisa, as pessoas que gostam de vinho frisante como você se identificarão através das etiquetas.
+Uma comunidade pode surgir!&lt;/p&gt;
+&lt;p&gt;Isso é o que acontece nos &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Social_bookmarking"&gt;sistemas de Social Tagging&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Usando o conceito de atribuir tags (palavras-chave) a recursos da Web como fotos, artigos e páginas favoritadas, eles surgiram no meio do boom da Web 2.0.&lt;/p&gt;
+&lt;div class="align-center" style="width: 400px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"&gt;
+&lt;img alt="Definição gráfica de folksonomias" class="align-center" src="images/folksonomy.jpg" style="width: 400px; height: auto;background-color: #E0E0E0; border-radius: 5%; padding: 10px; max-width: 100%;"/&gt;
+&lt;p class="caption"&gt;Definição gráfica de folksonomias&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Com vários apreciadores classificando vinho, podemos então separar os tintos dos brancos, e criar várias outras categorizações.&lt;/p&gt;
+&lt;p&gt;Na Web, isso significa facilitar a navegação, recuperação, descoberta e organização de conteúdo (ou conhecimento!).&lt;/p&gt;
+&lt;p&gt;É dessa interação de apreciadores de vinho classificando produtos que surgem as folksonomias, termo oriundo da junção das palavras folk (pessoas) e taxonomia - estrutura de classificação hierárquica formal.&lt;/p&gt;
+&lt;p&gt;Um exemplo disso é estrutura de nuvem de tags - tem uma aqui do lado direito.&lt;/p&gt;
+&lt;p&gt;Porém, os sommeliers podem usar classificações que só valem para organização própria, com rótulos como “comprar”.
+São as chamadas &lt;a class="reference external" href="http://bierdoctor.net/papers/Rader_CSCW_Abstract_Final.pdf"&gt;tags egoístas&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Além disso, as folksonomias estão bem longe de taxonomias, pois a classificação é “flat”.&lt;/p&gt;
+&lt;p&gt;Isso significa que não existem relações entre os conceitos (tags) usados de modo a criar hierarquias, tudo está no mesmo nível.
+Não se pode dizer que "tinto suave" é uma sub-categoria de "tinto".&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saiba mais&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.vanderwal.net/folksonomy.html"&gt;Sobre o surgimento e definição do termo, pelo criador&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://revolucao.etc.br/archives/folksonomia-e-a-maneira-com-que-nos-colocamos-ordem-nas-coisas/"&gt;Folksonomia e a maneira com que nós colocamos ordem nas coisas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="folksonomy"></category><category term="social tagging"></category><category term="tagging"></category></entry></feed>
